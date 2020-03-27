@@ -1,92 +1,47 @@
 ---
 layout: default
 ---
-<!---
-# Online Workshop
-The online workshop is designed to help aid participants for the main competition during the Conference Day. Participants are first advised to **go through the lessons** materials posted at their own convenience. A **Q&A session** will then be held **weekly at *ClassDo*** by the respective speakers to help clarify participants’ doubts of the particular week’s topic.
-An invitation link to the *ClassDo* session would be emailed to participants as well as posted onto the website before the week’s session. Learn more about the *ClassDo* Sessions <a href= "https://learn.classdo.com/buildingblocs/">here</a>!
-> **Participants/Non-participants of BuildingBloCS:** Feel free to join us in our live sessions! Sign up <a href= "https://docs.google.com/forms/d/e/1FAIpQLSe1gu5bdATszY-I5UEO8AOq9roUyo5G3lwZIfIzhIzg6H5aHg/viewform" >here</a> for your preferred 30 minutes slot within 2pm-5pm every Sunday!The exact time slot will be emailed to you before the actual day.
-## Week 1: How to Set-Up a Front-End Interface
-<a class="btn" target="_blank" href="https://docs.google.com/document/d/13oGbwIFS9wU8EUkcr1SgsJeAX3tQTan1U3RD1M-LiV4/view">View Lesson 1</a>
-<a class="btn" target="_blank" href="https://docs.google.com/document/d/1uc7rQSSzfillXUqPKKTXPD9f2Ld88i64I-Xxa-1Jqjg/view">View Lesson 2</a>
-<a class="btn" target="_blank" href="https://learn.classdo.com/buildingblocs/">Join Q&A</a>
-*Q&A Date:* 6 May (Sunday), 2pm-5pm 
-*Main Speakers:* Dai Tianle, Jin Zi Long
-We explore some basic understanding and skills sets in the realm of HTML and CSS, such as tags, attributes, identifiers and styles.
-### Learning Outcomes
-* Know some essential tags (headers, a, img, p, form).
-* Understand html/css structure.
-* Build first html/css template.
-* Understand and apply essential CSS rules
-* Understand how CSS targets tags and use <div> tags </div>
-* ID and Class
-* Google Fonts
-## Week 2: Python Programming for Beginners
-<a class="btn" target="_blank" href="https://docs.google.com/document/d/1smROx_-7g1r6pZFl1wPNKoB-essFN0TAArIQ4LhM8R0/view">View Lesson 3</a>
-<a class="btn" target="_blank" href="https://docs.google.com/document/d/18Jd9bro28SGY7Odu_GVweXiWJPfx9YngvnqHYW6tuY8/view">View Lesson 4</a>
-<a class="btn" target="_blank" href="https://classdo.com/">Join Q&A</a>
-*Q&A Date:* 13 May (Sunday) , 2pm-5pm 
-*Main Speakers:* Aaron Peh Boon Wan, Kenneth Haw
-We explore how to code programs using Python and its different tools such as variables, conditionals and various data structures.
-### Learning Outcomes
-* Variables: declaration, types, scopes.
-* Conditionals.
-* Functions: Input, output, procedures.
-* Import: Libraries.
-## Week 3: Building a Python Web-App with Flask
-<a class="btn" target="_blank" href="https://docs.google.com/presentation/d/1HMm89YIqVsDyFNwu09XiTxFEtUD6Qf_jbdzo1Ue2Uss/view">View Lesson 5</a>
-<a class="btn" target="_blank" href="https://learn.classdo.com/buildingblocs/">Join Q&A</a>
-*Q&A Date:* 20 May (Sunday), 2pm-5pm 
-*Main Speakers:* Yong Kai Qi, Tjandy Putra
-This week, we combine what we learn in the previous 2 weeks, and learn how to display a Python Program in the web environment.
-### Learning Outcomes
-* Flask Helloworld program
-* Multiple pages
-* Jinja basics
-* HTTP Protocols
-## Week 4: Finale Workshop
-<a class="btn disabled" target="_blank" href="https://learn.classdo.com/buildingblocs/">Join Q&A</a>
-*Q&A Date:* 27 May (Sunday), 2pm-5pm 
-If the demand is high, we will also open up a final consultation session to answer any questions you have for the actual competiton on 1 June!
--->
 
-## Workshops at PyCon SG (on-going)
+## Python Workshop Series (on-going)
 
-BuildingBloCS 2019 has partnered with **Python User Group** to conduct Young Coders Workshops for students. This event is separate from main conference, but serve as a lead to help students improve their coding proficiency.
+Over the March school holidays, a group of BuildingBloCS students/alumni from DHS and JPJC came together online to produce a series of Python workshops, and we would like to share them with you and the community. You may view the videos that have been uploaded on Youtube.
 
-[Learn more and sign up &raquo;](https://pycon.sg/young-coders)
-<br id="Fossasia">
-<br>
+The Python workshops covers a large proportion of many of the applications in H2 Computing, as well as many of its real-world applications. You will be led through a series of lecture slides and have a chance to perform some hands-on activities. We hope that these will entice you further to pursue computing in your future. :)
 
-## Workshops at FOSSASIA (completed)
-We have also organsied pre-event workshops with **[FOSSASIA](https://2019.fossasia.org/)** at **Lifelong Learning Institute**. Below are the details.
+Some of these workshops have also been conducted at [FOSSASIA's Summit](https://summit.fossasia.org/) at Paya Lebar's Lifelong Learning Institute.
+* [Event Hall 2-2 (Day 2)](https://youtu.be/7eAAivicPmk)
+* [Training Room 2-2 (Day 2)](https://youtu.be/CMJZ6SZIaRs)
 
 
-### Introduction to SQLite
+### [Web Development with Flask](https://youtu.be/074b8o15Vnc)
+```diff 
+- Also a FOSSASIA Workshop
+```
+Flask is a micro web framework written in Python. This means flask provides one with tools, libraries and technologies that allow you to build a web application. This workshop will introduce you to the basic syntax of flask as well as to build your own website!
 
-Participants will learn about relational databases through SQLite, a self-contained, serverless, zero-configuration, transactional SQL database engine which is the most widely deployed database in the world. Both single and multi-table (with normalization) scenarios will be covered. Participants will connect to SQLite using the Python sqlite3 standard library module to perform common operations.
+### [Cybersecurity with Python](https://youtu.be/P5ti4jgk7eQ)
+```diff 
+- Also a FOSSASIA Workshop
+```
+Cybersecurity is the practice of protecting systems, networks, and programs from digital attacks. These cyberattacks are usually aimed at accessing, changing, or destroying sensitive information; extorting money from users; or interrupting normal business processes. Participants equip themselves with the basic skills of cybersecurity and tap on useful libraries that bring them through several hands-on activties such as port scanning.
 
-<a class="btn" href="https://youtu.be/mWeal6bP0P8">Video</a>
+### [Introduction to Socket Programming in Python](https://youtu.be/T248IPVosR4)
+```diff 
+- Also a FOSSASIA Workshop
+```
+Socket programming is a way of connecting two nodes on a network to communicate with each other. This course will bring participants through the know-hows of socket programming in Python, as well as to set up a client-server architecture to run through several hands-on activities such as building a chat system and a RPG.
 
+### [Introduction to SQLite3 in Python]()
+```diff 
+- Also a FOSSASIA Workshop
+```
+Participants will learn about relational databases through SQLite, a self-contained, serverless, zero-configuration, transactional SQL database engine which is the most widely deployed database in the world. Both single and multi-table (with normalization) scenarios will be covered. Participants will connect to SQLite using the Python sqlite3 standard library module to perform common operations. The course also brings participants through a hands-on activity to build a database.
 
-### Machine Learning with Python
+### [Circuit Python Workshop](https://youtu.be/DsDeCd6VNj0)
+We organised a workshop about Circuit Programming with Python using the Adafruit Circuit Playground Express. Participants range from complete beginners to having some experience in Python. In the workshop, participants learned beyond basic python, and had fun playing around with the circuit playground they received, and expanded on their creativity to utilise what they can do with the Adafruit Circuit Playground Express.
 
-Participants will learn about basic machine learning algorithms such as linear regression and build a single layer perceptron to improve the performance of the linear regression model.
+### [Introduction to Python](https://youtu.be/Ms0BERdaIeI) 
+Python is a widely-popular and general-purpose language used by many developers. Learning a programming language has immeasurable advantages: Participants not only expose themselves to the art of _computational thinking_, the course will serve as a stepping stone for them to be equipped with the basics of Python so that they are able to embark on projects that can save the world (and automate their life ;)) Particularly, it is also the main language that will be used for 'O' and 'A'-Level Computing!
 
-<a class="btn" href="https://youtu.be/7H7mvU1JLOU">Video</a>
-
-### Introduction to Python
-
-Participants will learn how Python can be used to automate common tasks and program a simple text-based game. We will cover data types, conditionals, loops, data structures and functions.
-
-
-### Introduction to VueJS
-
-Participants will learn about VueJS, a progressive JavaScript framework for creating user interfaces. They will build a simpe SPA (Single Page Application) by applying VueJS's core concepts.
-
-
-### Introduction to MongoDB
-
-Participants will learn about MongoDB, a cross platform document-oriented NoSQL database system. They will connect to MongoDB using the PyMongo API to perform common operations.
-
-
+### [Introduction to MongoDB with Python](https://youtu.be/Gs3zYwtDXEw)
+Participants will learn about MongoDB, a cross platform document-oriented NoSQL database system. They will connect to MongoDB using the PyMongo API to perform common operations. In fact, the course will also expose you to the commonalities of databases in our daily lives and bring you through a scenario of setting up a database for a Convenience Store.

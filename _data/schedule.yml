@@ -1,0 +1,16 @@
+- day: 1
+  activities:
+  - time: 0830 - 0900
+    title: Registration & Breakfast
+  - time: 0900 - 0915
+    title: Opening & Entertainment
+  - time: 0915 - 1100
+    title: Talks by BuildingBloCS alumni, Google, GovTech, Google Code-in Grand Prize Winner, PayPal and more!
+  - time: 1100 - 1300
+    title: Networking & Lunch & Games
+  - time: 1300 - 1600
+    title: Winpetition and/or Workshops
+  - time: 1600 - 1715
+    title: Talks & Projects Showcase (3-5 min) & Judging (concurrent)
+  - time: 1715 - 1730
+    title: Awards & Group Photo & Closing

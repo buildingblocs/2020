@@ -1,0 +1,26 @@
+// for .links see _navigation
+
+.footer-wrapper {
+    background-color: palette(footer-background);
+}
+
+.footer {
+    margin: 0 auto;
+    padding: 4rem 1rem;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: left;
+    justify-content: left;
+    color: palette(footer-text);
+    background-color: palette(footer-background);
+    //@include font-size(small);
+    @include link(footer);
+
+    .column {
+        margin: 0 1rem;
+    }
+
+    .group {
+        margin: 1rem 0;
+    }
+}

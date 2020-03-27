@@ -1,0 +1,98 @@
+$link-spacing: 0.3333333em;
+
+.links {
+    margin: 0 (-$link-spacing);
+
+    .link {
+        display: inline-block;
+    }
+
+    a {
+        display: inline-block;
+        padding-left: $link-spacing;
+        padding-right: $link-spacing;
+    }
+}
+
+.navigation {
+    padding: 3rem-1rem 2rem;
+    overflow: hidden; // hide hidden menu content
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: palette(nav-text);
+    @include link(nav);
+    @include font-family(nav);
+    @include font-type(nav);
+    @include font-size(medium);
+
+    .brand {
+        flex: 1 auto;
+        text-align: left;
+    }
+
+    .links {
+        flex: 1 auto;
+        text-align: right;
+        @include font-size(normal);
+    }
+
+    [for=menu],
+    #menu {
+        display: none;
+    }
+
+    @media screen and (max-width: 560px) {
+        .links {
+            width: 100%;
+            transition: 0.6s height, 0.6s opacity;
+            pointer-events: none;
+            height: 0em;
+            opacity: 0;
+        }
+        
+        [for=menu] {
+            display: inline;
+            cursor: pointer;
+            margin: -1em;
+            padding: 1em;
+        }
+        #menu:checked + .links {
+            pointer-events: auto;
+            height: 1.7em;
+            opacity: 1;
+        }
+    }
+
+    // Animations
+    transition: color 0.3s, padding 0.6s;
+    .brand,
+    .links .link a {
+        transition: color 0.3s;
+    }
+}
+
+.invert .navigation {
+    color: palette(nav-invert-text);
+    @include link(nav-invert);
+    // Additionaly, squeeze the menu a bit
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+}
+
+.navigation-wrapper {
+    position: fixed;
+    top: 0;
+    z-index: 10;
+    width: 100%;
+    background-color: palette(nav-background);
+   
+    // Animations
+    transition: background-color 0.6s;
+}
+
+.invert.navigation-wrapper {
+    background-color: palette(nav-invert-background);    
+}

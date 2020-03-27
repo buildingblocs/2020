@@ -1,0 +1,33 @@
+.brand {
+    color: palette(brand);
+    @include font-type(brand);
+    @include font-size(medium);
+    display: inline-block;
+
+    .logo {
+        height: 1em;
+        width: 1em; // remove when ie is extinct
+        font-size: 1.8em;
+        margin-right: 0.2em/1.8em;
+    }
+
+    .name {
+        small {
+            @include font-size(xsmall);
+            vertical-align: bottom;
+        }
+        @media screen and (max-width: 580px) {
+            small {
+                display: none;
+            }
+        }
+    }
+
+    * {
+        vertical-align: middle;
+    }
+}
+
+.invert .brand {
+    color: palette(brand-invert);
+}

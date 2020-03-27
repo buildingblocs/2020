@@ -1,0 +1,7 @@
+- title: "Some talk"
+  image: "/assets/talk1.jpg"
+  overview: "Talk 1"
+
+- title: "Another talk"
+  image: "/assets/talk2.jpg"
+  overview: "Talk 2"

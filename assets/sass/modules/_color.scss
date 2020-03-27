@@ -1,0 +1,66 @@
+$theme-color: #90caf9;
+$theme-dark-color: mix($theme-color, black, 90%);
+$theme-secondary-color: $theme-dark-color;
+$text-color: black;
+$background-color: white;
+
+$nav-background-fade: 95%;
+
+$palette: (
+    background: $background-color,
+    text: $text-color,
+    text-blur: $theme-secondary-color,
+    seprator: mix($theme-secondary-color, $background-color, 33.3%),
+    brand: $theme-color,
+    brand-invert: white,
+    nav-background: mix($background-color, transparent, $nav-background-fade),
+    nav-text: $theme-color,
+    nav-invert-background: mix($theme-color, transparent, $nav-background-fade),
+    nav-invert-text: white,
+    footer-background: white,
+    footer-text: $theme-secondary-color,
+    blockquote-bar: $theme-color,
+    highlight-background: $theme-color,
+    highlight-text: white,
+);
+
+@function palette($name: transparent) {
+    @return map-get($palette, $name);
+}
+
+$link-palette: (
+    default: (
+        link: $theme-color,
+        hover: $text-color,
+        active: $text-color,
+    ),
+    flip: (
+        link: $text-color,
+        hover: $theme-color,
+        active: $theme-color,
+    ),
+    invert: (
+        link: mix($background-color, transparent, 100%),
+        hover: mix($background-color, transparent, 66.7%),
+        active: mix($background-color, transparent, 66.7%),
+    ),
+    nav: (
+        link: $theme-color,
+        hover: palette(nav-text),
+        active: palette(nav-text),
+    ),
+    nav-invert: (
+        link: mix(palette(nav-invert-text), palette(nav-invert-background), 100%),
+        hover: mix(palette(nav-invert-text), palette(nav-invert-background), 66.7%),
+        active: mix(palette(nav-invert-text), palette(nav-invert-background), 66.7%),
+    ),
+    footer: (
+        link: mix(palette(footer-text), palette(footer-background), 100%),
+        hover: mix(palette(footer-text), palette(footer-background), 66.7%),
+        active: mix(palette(footer-text), palette(footer-background), 66.7%),
+    ),
+);
+
+@function link-palette($type: default, $role: link) {
+    @return map-get(map-get($link-palette, $type), $role);
+}

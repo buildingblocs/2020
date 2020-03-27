@@ -2,11 +2,9 @@
 layout: default
 ---
 # On-going
-## Workshops at PyCon SG
+## Entertainment
 
-BuildingBloCS 2019 has partnered with **Python User Group** to conduct Young Coders Workshops for students. This event is separate from main conference, but serve as a lead to help students improve their coding proficiency.
-
-[Learn more and sign up &raquo;](https://pycon.sg/young-coders)
+asd
 
 
 ## Lucky draw
@@ -31,10 +29,5 @@ Our workshops **workshops** at FOSSASIA include Introduction to Python, VueJS, D
 
 <a class="btn" href="{{ site.baseurl }}/pre-event/workshop#Fossasia">Details</a>
 
-## BBCS BBQ
-
-This year, we have managed to organise a BBQ event for our organisers and volunteers. It took place on Thursday, 21st Mar at **[classdo.com](https://classdo.com/en/)** home office from 4 to about 8 pm.
-
-<a class="btn" href="{{ site.baseurl }}/pre-event/bbq">Details</a>
 
 

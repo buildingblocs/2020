@@ -7,7 +7,7 @@ published: true
     <div>
         <h1>
             {{ site.title }}<br>
-            <span class="huge">2019</span>
+            <span class="huge">2020</span>
         </h1>
         <p>
             {{ site.date }}, {{ site.location }}

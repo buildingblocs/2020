@@ -3,6 +3,12 @@ layout: default
 published: true
 ---
 
+<style>
+body {
+  background-image: url("../assets/img/favicon.png");
+}
+</style>
+
 ## Previously at BuildingBloCS 2019...
 
 <div style="margin: 0 auto; max-width: 420px; text-align: center">

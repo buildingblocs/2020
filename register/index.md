@@ -5,8 +5,6 @@ layout: default
 # Register
 >BuildingBloCS20 conference registration is open for all Computing students (including organisers/facilitators) together with teachers and external speakers.
 
-The registration is not open yet.
-
 We will have weekly draws on every Fri from 19 Apr and your chances accumulate till 7 Jun i.e. a total of 8 lucky draws, and there is no limit to the number of times you can get lucky! 
 
 [View Lucky draw details and results>>]({{ site.baseurl }}/pre-event/luckydraw)

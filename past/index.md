@@ -58,7 +58,7 @@ Prerequisites: Basic Python programming knowledge such as lists, loops and funct
 ## Updates
 
 Maituliao. [Click here]({{ site.baseurl }}/register#event) to register now!
-Follow [@buildingblocs18](https://instagram.com/buildingblocs18) for quick notifications on event updates :)
+Follow [@buildingblocs20](https://www.instagram.com/buildingblocs20/) for quick notifications on event updates :)
 
 <!--
 

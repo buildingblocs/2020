@@ -8,6 +8,7 @@ published: true
 Drop an email to [buildingblocs@computing.sg](mailto:buildingblocs@computing.sg)
 
 # Location
+##The details below are of BuildingBloCS 2019, the details of BuildingBloCS 2020 are not finalised yet
 
 NUS School Of Computing (LT16)<br>
 13 Computing Drive<br>

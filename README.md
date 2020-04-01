@@ -1,5 +1,5 @@
 
-# BuildingBloCS 2019 Website
+# BuildingBloCS 2020 Website
 
 ## Development workflow
 

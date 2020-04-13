@@ -19,11 +19,11 @@ Data science and artificial intelligence have become hot topics ubiquitous in al
 DataCamp is a platform that allows you to learn about data science, machine learning, etc. It comes in courses 
 conducted by industry experts with bite-size exercises accompanied by clear instructional videos. Users can learn data analytics and machine learning from the comfort of their browser, at their own pace, and tailored to their needs and expertise, and even earn industry certification!
 
-Join our following outreach workshop on Wednesday 15th April 2020 from 8 to 830 pm. We will share more about DataCamp and answer any questions you may have.
+Join our following outreach workshop on **Wednesday 15th April 2020 from 8 to 830 pm**. We will share more about DataCamp and answer any questions you may have.
 
 There will be lucky draw prizes for participants who attend this outreach workshop. :) SIGN UP EARLIER TO STAND HIGHER CHANCES TO WIN! 
 
-Please join the BuildingBloCS 2020 Discord at https://discord.gg/hfRDun5
+Please join the BuildingBloCS 2020 Discord at <a href="https://discord.gg/hfRDun5">https://discord.gg/hfRDun5</a>
 **Important** When you join, please indicate your name and school (for security reasons+). We will not be able to accept people whose identity we cannot verify.
 
 So sign up below! For inquires, feel free to email <a href="mailto:chow.kianfong.ace@dhs.sg">chow.kianfong.ace@dhs.sg</a>

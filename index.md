@@ -10,7 +10,7 @@ published: true
             <span class="huge">2020</span>
         </h1>
         <p>
-            {{ site.date }} Online. :)<!-- {{ site.location }}
+            {{ site.date }} {{ site.location }} :)<!--
         </p>
         <p> <!-- /register-->
             <!--<a class="btn" href="{{ site.baseurl }}/contact#location">Get there</a> -->

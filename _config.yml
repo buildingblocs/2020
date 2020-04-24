@@ -1,9 +1,9 @@
 #baseurl: "/2017"
 
 title: "BuildingBloCS"
-tagline: "High School Computer Science Conference"
-date: "5 June"
-location: "ClassDo website <!-- to be updated-->"
+tagline: "High School Computing Conference"
+date: "Thu 14 May & Fri 15 May"
+location: "Online"
 
 exclude:
   - README.md

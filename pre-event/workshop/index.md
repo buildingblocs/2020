@@ -5,9 +5,8 @@ layout: default
 ## Python Workshop Series (Upcoming, [**sign up here!**](https://forms.gle/wdzqCbVki58rj7da9)😄) 
 
 <details>
-<strong><summary>Introduction to Python</summary></strong>
-  
-  jnkkjkjkjkjkk
+<summary><strong>Introduction to Python</strong></summary>
+
 </details>
 
 <details>
@@ -41,7 +40,7 @@ that tells you the time using nodejs and learn to host it online for free!
 </details>
 
 <details>
-<summary><strong>Introduction to OpenCV</h3></strong><br>
+<summary><strong>Introduction to OpenCV</strong></summary><br>
 <img src="https://user-images.githubusercontent.com/47784720/80275797-349dab80-8716-11ea-8b11-ce656342ae73.png" alt="EdgeDunmanHigh" width="600"/><br>
 <strong>Part 1</strong><br>
 Open CV is a powerful library used to analyse images and videos! Equip 
@@ -49,7 +48,8 @@ youselves with the knowledge about the various Open CV features. In Part 1,
 we will be introducing the fundamentals of opencv, starting with Trackbars and
 Histograms (both static and video analysis)
 <br>
-<strong>Part 2</strong><br>
+<strong>Part 2</strong>
+<br>
 In Part 2, We will be learning how to make use of the slider trackbars to isolate
 certain colors of an image. We will also explore the math behind Canny Edge 
 Detection. Participants will also get to embark on a future project!

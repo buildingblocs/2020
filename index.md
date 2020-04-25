@@ -10,7 +10,7 @@ published: true
             <span class="huge">2020</span>
         </h1>
         <p>
-            {{ site.date }}, To be confirmed :)<!-- {{ site.location }}
+            {{ site.date }} {{ site.location }} :)<!--
         </p>
         <p> <!-- /register-->
             <!--<a class="btn" href="{{ site.baseurl }}/contact#location">Get there</a> -->
@@ -28,7 +28,7 @@ Remember to remain healthy in times of crisis like now!
 
 ## Format
 
-Already on it's 4th year, BuildingBloCS '20 will the year of breakthroughs! This year, BuildingBloCS expands its expected target audience to both **Computing and Non-Computing students**. We hope to bring forth the idea that Computing is essential to the future of Singapore. Pre-events leading up to the official conference will also enhance students' engagement, building them up for the finale where all will convene at NUS School of Computing for a day of fun, interaction, learning and prizes!(If the COVID-19 situation subsides by then. Or else, we would have to find other alternatives.) Through BuildingBloCS '20, we hope to spark a **long-lasting passion** for Computing among students!
+Already on its 4th year, BuildingBloCS '20 will be the year of breakthroughs! This year, BuildingBloCS expands its expected target audience to both **Computing and Non-Computing students**. Through a diverse and exciting range of online activities, we hope to spark a **long-lasting passion** for Computing among students!
 
 ## Pre-events
 
@@ -36,9 +36,9 @@ Already on it's 4th year, BuildingBloCS '20 will the year of breakthroughs! This
 
 ## Event
 **(NOTICE, EVENT'S DETAILS WERE FROM LAST YEAR. DO NOT REGARD)**<br>
-Registration is started! [Get to register >>]({{ site.baseurl }}/register)
+Registration is coming soon! [Get to register >>]({{ site.baseurl }}/register)
 
-The home. Where the heart of the event is; A line up of **fringe games, talks, workshops and a finale competition** will be conducted on the **{{ site.date }} at the {{ site.location }}**! The event will close with an **Exciting Lucky Draw** and an **Award Ceremony**. This year, BuildingBloCS '19 will also be having **Awesome Projects Showcase** at the **FOSSASIA OpenTech Summit**. Sounds exciting? So what are you waiting for, come and join us for this year's BuildingBloCS and together let us all help to build Singapore into a **Smart Nation**! [More&nbsp;details&nbsp;&raquo;]({{ site.baseurl }}/event)
+A line up of **games, talks, workshops and winpetition** will be conducted on **{{ site.date }} {{ site.location }}**! Come and join us for this year's BuildingBloCS and together let us all help to build Singapore into a **Smart Nation**! [More&nbsp;details&nbsp;&raquo;]({{ site.baseurl }}/event)
 
 <div style="font-size: 1.25em; text-align: center">
   <a class="btn" href="https://photos.app.goo.gl/cntLndL2gY9cu0jK2">View Photos</a>

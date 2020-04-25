@@ -12,7 +12,7 @@ BuildlingBloCS is a yearlong outreach programme for students, by students! Activ
 Due to the ongoing COVID-19 pandemic, it is illegal to physically hold inter-school workshops and activities. Therefore, most of our workshops and activities will have to be conducted online! On hindsight, this allows for flexibility and allows more people to join because they can do it from home.
 
 ### Activities and Programmes
-Head over to this <a href="/2020/events-and-workshops">link</a>link to find out our list of ongoing activities!
+Head over to this <a href="/2020/events-and-workshops">link</a> to find out our list of ongoing activities!
 
 <!--
 

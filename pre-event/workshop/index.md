@@ -8,7 +8,6 @@ layout: default
 We had our very first BuildingBloCS workshop on 14 January 2020. It taught 'O'-Level computing students about Artificial Intelligence, Capture The Flag, and promoted Google Code-In 2019. The participants had a lot of fun with the workshop and potentially made new friends with each other! <br>
 <a class="btn" href="https://photos.app.goo.gl/ToVkPLV3zoNLuNqy8">Photos</a>
 
-<hr/>
 ### Circuit Programming with Adafruit Circuit Playground Express
 Over the March school holidays, a group of BuildingBloCS students/alumni from DHS and JPJC came together online to produce a series of Python workshops, and we would like to share them with you and the community. You may view the videos that have been uploaded on Youtube.<br>
 <a class="btn" href="https://photos.app.goo.gl/HWpBV3mRVwjM55ez5">Photos</a>

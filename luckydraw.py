@@ -37,12 +37,6 @@ def display(number_of_winners):
         input()
         
     
-    
-
-
-    
-
-    
 #main
 
 all_names = []
@@ -53,4 +47,3 @@ prizes = ["mystery prize","hand sanitiser x 1","face masks x 2","alcohol swabs x
 number_of_winners = 5
 draw(number_of_winners,number_of_participants)
 display(number_of_winners)
-        

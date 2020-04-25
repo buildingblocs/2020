@@ -4,13 +4,13 @@ layout: default
 
 # Welcome to Coursemology
 
-Challenge yourself with Project Euler questions and hone your Python programming skills and mathematical knowledge. You will learn how to create different kinds of visualizations for different kinds of data and also make use of cool data science tools to start your own analyses. Also stand chances to win attractive prizes with your participation! (Upon registration, participants will receive an Invitation to the course)
+Further hone your Python programming skills and computational thinking with highly interactive coding problems! You will learn how to approach real-world problems in a systematic manner, applying mathematical concepts in unique and interesting ways. You will also create different kinds of visualizations for different kinds of data, and also make use of cool data science tools to start your own analyses. Also stand chances to win attractive prizes with your participation! (Upon registration, participants will receive an invitation to the course via email.)
 
-[Sign up now &raquo;](https://forms.gle/uWFQnWtcwgELn2Bs9)
+[Sign up now &raquo;](https://forms.gle/ZDwHbLYXCimb39Dm8)
 
-# Coursemology Results
+# 2019 Coursemology Results
 
-> **Congratulations** to the top-scorers of the Coursemology Event! :) We hope everyone benefitted and learned something through the tedious process! Also, a big **THANK YOU** for everyone who have participated enthusiastically in the Coursemology event.
+> **Congratulations** to the top-scorers of the 2019 Coursemology Event! :) We hope everyone benefitted and learned something through the tedious process! Also, a big **THANK YOU** for everyone who have participated enthusiastically in the Coursemology event.
 
 1. Chan Si Jie, Xin Min Secondary
 

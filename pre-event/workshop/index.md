@@ -4,20 +4,24 @@ layout: default
 
 ## Python Workshop Series (Upcoming, [**sign up here!**](https://forms.gle/wdzqCbVki58rj7da9)😄) 
 
-<details><summary><strong><h3>Introduction to Python</h3></strong></summary></details>
+<details>
+<strong><summary>Introduction to Python</summary></strong>
+  
+  jnkkjkjkjkjkk
+</details>
 
 <details>
-<summary><h3>Introduction to SQL</h3></summary>
+<summary><strong>Introduction to SQL</strong></summary>
 Databases are an important part of 
 Get participants to understand the basics of sql 
 - normalized databases
 - sql technologies
 </details>
 
-<details><summary><h3>Introduction to HTML/CSS</h3></summary></details>
+<details><summary><strong>Introduction to HTML/CSS</h3><strong></details>
 
 <details>
-<summary><h3>Introduction to Javascript</h3></summary>
+<summary><strong>Introduction to Javascript</strong></summary>
 JavaScript is an extremely popular programming language used primarily by Web 
 browsers to create a dynamic and interactive experience for the user. 
 Most of the functions and applications that make the Internet 
@@ -27,17 +31,17 @@ that tells you the time using nodejs and learn to host it online for free!
 </details>
 
 <details>
-<summary><h3>Introduction to noSQL</h3></summary>
+<summary><strong>Introduction to noSQL</strong></summary>
 
 </details>
 
 <details>
-<summary><h3>Introduction to Cybersecurity</h3></summary>
+<summary><strong>Introduction to Cybersecurity</strong></summary>
 
 </details>
 
 <details>
-<summary><h3>Introduction to OpenCV</h3></summary><br>
+<summary><strong>Introduction to OpenCV</h3></strong><br>
 <img src="https://user-images.githubusercontent.com/47784720/80275797-349dab80-8716-11ea-8b11-ce656342ae73.png" alt="EdgeDunmanHigh" width="600"/><br>
 <strong>Part 1</strong><br>
 Open CV is a powerful library used to analyse images and videos! Equip 
@@ -53,13 +57,13 @@ Detection. Participants will also get to embark on a future project!
 
 
 <details>
-<summary><h3>Introduction to Git</h3></summary>
+<summary><strong>Introduction to Git</strong></summary>
 Originally created by the founder of Linux, Git is a powerful tool to manage computing projects. In this course, participants will understand what Git is and how it is different from GitHub, what programmers can use Git for, learn to perform basic CRUD operations (commit, pull etc) using GitHub Desktop, perform simple collaborative operations (merge, forking), explain the use of pull requests -> working on public open source projects
 </details>
 
 
 <details>
-<summary><h3>Introduction to Unity</h3></summary>
+<summary><strong>Introduction to Unity</strong></summary>
 Participants will be introduced to the the Game Loop, 2D Space, Collision detection, and make a simple game involving moving the player character (Collide into the blocks ASAP?)
 </details>
 

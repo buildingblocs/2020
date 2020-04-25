@@ -2,13 +2,67 @@
 layout: default
 ---
 
-## Python Workshop Series (on-going)
+## Python Workshop Series (Upcoming, [**sign up here!**](https://forms.gle/wdzqCbVki58rj7da9)😄) 
 
+<details><summary><strong><h3>Introduction to Python</h3></strong></summary></details>
+
+<details>
+<summary><h3>Introduction to SQL</h3></summary>
+Databases are an important part of 
+Get participants to understand the basics of sql 
+- normalized databases
+- sql technologies
+</details>
+
+<details><summary><h3>Introduction to HTML/CSS</h3></summary></details>
+
+<details>
+<summary><h3>Introduction to Javascript</h3></summary>
+JavaScript is an extremely popular programming language used primarily by Web 
+browsers to create a dynamic and interactive experience for the user. 
+Most of the functions and applications that make the Internet 
+indispensable to modern life are coded in some form of JavaScript. 
+At the end of the course, participants will be able to create a simple discord bot
+that tells you the time using nodejs and learn to host it online for free!
+</details>
+
+<details>
+<summary><h3>Introduction to noSQL</h3></summary>
+
+</details>
+
+<details>
+<summary><h3>Introduction to Cybersecurity</h3></summary>
+
+</details>
+
+<details>
+<summary><h3>Introduction to OpenCV</h3></summary>
+<strong>Part 1</strong>
+Open CV is a powerful library used to analyse images and videos! In this course, we will be introducing 
+the fundamentals of opencv, starting with learning how to use the terminal, followed by learning the slider GUI functions
+<strong>Part 2</strong>
+</details>
+
+
+<details>
+<summary><h3>Introduction to Git</h3></summary>
+Originally created by the founder of Linux, Git is a powerful tool to manage computing projects. In this course, participants will understand what Git is and how it is different from GitHub, what programmers can use Git for, learn to perform basic CRUD operations (commit, pull etc) using GitHub Desktop, perform simple collaborative operations (merge, forking), explain the use of pull requests -> working on public open source projects
+</details>
+
+
+<details>
+<summary><h3>Introduction to Unity</h3></summary>
+Participants will be introduced to the the Game Loop, 2D Space, Collision detection, and make a simple game involving moving the player character (Collide into the blocks ASAP?)
+</details>
+
+
+## Past Python Workshops
 ### AI cum CTF cum Google-Code In
 We had our very first BuildingBloCS workshop on 14 January 2020. It taught 'O'-Level computing students about Artificial Intelligence, Capture The Flag, and promoted Google Code-In 2019. The participants had a lot of fun with the workshop and potentially made new friends with each other! <br>
 <a class="btn" href="https://photos.app.goo.gl/ToVkPLV3zoNLuNqy8">Photos</a>
 
-### Circuit Programming with Adafruit Circuit Playground Express
+### [Circuit Programming with Adafruit Circuit Playground Express](https://youtu.be/DsDeCd6VNj0)
 Over the March school holidays, a group of BuildingBloCS students/alumni from DHS and JPJC came together online to produce a series of Python workshops, and we would like to share them with you and the community. You may view the videos that have been uploaded on Youtube.<br>
 <a class="btn" href="https://photos.app.goo.gl/HWpBV3mRVwjM55ez5">Photos</a>
 
@@ -17,7 +71,6 @@ The Python workshops covers a large proportion of many of the applications in H2
 Some of these workshops have also been conducted at [FOSSASIA's Summit](https://summit.fossasia.org/) at Paya Lebar's Lifelong Learning Institute.
 * [Event Hall 2-2 (Day 2)](https://youtu.be/7eAAivicPmk)
 * [Training Room 2-2 (Day 2)](https://youtu.be/CMJZ6SZIaRs)
-
 
 ### [Web Development with Flask](https://youtu.be/074b8o15Vnc)
 
@@ -51,4 +104,3 @@ Python is a widely-popular and general-purpose language used by many developers.
 
 ### [Introduction to MongoDB with Python](https://youtu.be/Gs3zYwtDXEw)
 Participants will learn about MongoDB, a cross platform document-oriented NoSQL database system. They will connect to MongoDB using the PyMongo API to perform common operations. In fact, the course will also expose you to the commonalities of databases in our daily lives and bring you through a scenario of setting up a database for a Convenience Store.
-

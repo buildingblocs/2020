@@ -10,6 +10,8 @@ By the end of the workshop, participants would learn
 - the basics of python
 - If statements, lists, loops
 - create some simple programmes, (e.g. mark to grade converter/calculator)
+  
+<strong>Prequisites:</strong> Nothing much other than a desire to learn!
 </details>
 
 <details>
@@ -18,6 +20,8 @@ SQL forms an important part in our applications, by helping to store a variety o
 Participants will explore the concepts of:
 - normalized databases
 - sql technologies
+
+<strong>Prequisites:</strong> Basic Knowledge of Python (Intro to Python Workshop)
 </details>
 
 <details><summary><strong>Introduction to HTML/CSS</strong></summary>
@@ -27,7 +31,9 @@ By the end of the workshop, participants will be able to:
 </details>
   
 <details><summary><strong>Introduction to Flask</strong></summary>
-Flask is used to write web applications in Python. By the end, participants will understand the basics of Flask and have their own Flask application that makes use of an API (Application Programming Interface) 
+Flask is used to write web applications in Python. By the end, participants will understand the basics of Flask and have their own Flask application that makes use of an API (Application Programming Interface) <br>
+  
+  <strong>Prequisites:</strong> Basic Knowledge of Python (Intro to Python Workshop)
 </details>
 
 <details>
@@ -43,13 +49,18 @@ that tells you the time using nodejs</strong> and learn to host it online for fr
 
 <details>
 <summary><strong>Introduction to noSQL</strong></summary>
-After learning SQL, why not learn NoSQL? NoSQL databases (aka "not only SQL") are non tabular, and store data differently than relational tables (aka SQL). NoSQL databases come in a variety of types based on their data model. The main types are document, key-value, wide-column, and graph. They provide flexible schemas and scale easily with large amounts of data and high user loads.
+After learning SQL, why not learn NoSQL? NoSQL databases (aka "not only SQL") are non tabular, and store data differently than relational tables (aka SQL). <br> NoSQL databases come in a variety of types based on their data model. The main types are document, key-value, wide-column, and graph. They provide flexible schemas and scale easily with large amounts of data and high user loads.
+  
+ <strong>Prequisites:</strong> Basic Knowledge of Python (Intro to Python Workshop)
 </details>
 
 <details>
-<summary><strong>Introduction to Cybersecurity</strong>
-Cyberattacks are increasingly becoming more common, while our reliance on digital systems has increased significantly. A sound understanding of cybersecurity pricnciples would thus go a long way in helping to ensure one stays cyber secure. In this course, we will be embarking on a Capture-the-Flag style competition where participants will go through some Basic Web/ Forensics/ Cryptography Concepts.   
-</summary>
+<summary><strong>Introduction to Cybersecurity</strong></summary>
+Cyberattacks are increasingly becoming more common, while our reliance on digital systems has increased significantly. A sound understanding of cybersecurity principles would thus go a long way in helping to ensure one stays cyber secure. 
+<br>
+In this course, we will be embarking on a Capture-the-Flag style competition where participants will go through some Basic Web/ Forensics/ Cryptography Concepts.   
+  
+  <strong>Prequisites:</strong> Basic Knowledge of Python would be helpful (Intro to Python Workshop)
 </details>
 
 <details>
@@ -66,16 +77,23 @@ Histograms (both static and video analysis)
 In Part 2, We will be learning how to make use of the slider trackbars to isolate
 certain colors of an image. We will also explore the math behind Canny Edge 
 Detection. Participants will also get to embark on a future project!
+  <br>
+  <strong>Prequisites:</strong> Basic Knowledge of Python (Intro to Python Workshop)
 </details>
 
 <details>
 <summary><strong>Introduction to Git</strong></summary>
 Open source development is increasingly prevalent in software development, powering many devices that we use daily. Originally developed for the managing the Linux Operating System, Git is an extremely powerful tool for managing computing projects. Participants will learn what Git is and how it is different from GitHub, what programmers can use Git for, learn to perform basic operations (commit, pull etc) using a Git GUI Client, perform simple collaborative operations (merge, forking) and understand the use of pull requests in working on public open source projects
+  
+<strong>Prequisites:</strong> A little knowledge of terminal/Command Prompt commands would be helpful but not essential
 </details>
 
 <details>
 <summary><strong>Introduction to Unity</strong></summary>
 Participants will be introduced to the the Game Loop, 2D Space, Collision detection, and make a simple game involving moving the player character
+  
+  <br>
+<strong>Prequisites:</strong> To be updated
 </details>
 
 

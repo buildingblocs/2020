@@ -10,9 +10,17 @@
     winner: 
 
 - week: 2
-  awards:
-  - prize: 
-    winner:
+  awards:t-shirts
+  - prize: 1st Prize - t-shirt
+    winner: Jared Liew from ACSBR
+  - prize: 2nd Prize - t-shirt
+    winner: Eric Wang from DHS 
+  - prize: 3rd Prize - t-shirt
+    winner: Moe Pyae Sone Han from JPJC
+  - special prize: 
+    winner: Elliot Ang from St Pats
+  - special prize: 
+    winner: Allysa Tan from NJC
 
 - week: 3
   awards:

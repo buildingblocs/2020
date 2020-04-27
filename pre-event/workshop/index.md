@@ -93,7 +93,20 @@ Open source development is increasingly prevalent in software development, power
 Participants will be introduced to the the Game Loop, 2D Space, Collision detection, and make a simple game involving moving the player character
   
   <br>
-<strong>Prequisites:</strong> To be updated
+<strong>Prequisites:</strong> Knowledge of C# programming would be useful, but not required.
+As for programming knowledge, its mainly going to be variables:
+<div>
+  
+```c#
+eg. Vector3 direction = new Vector3(1,1,1);
+```
+
+and if else statements:
+
+```c#
+if (Input.GetButtonDown('Jump')){transform.translate(direction);}
+```
+</div>
 </details>
 
 

@@ -99,14 +99,16 @@ Participants will be introduced to the the Game Loop, 2D Space, Collision detect
 <br><strong>Prerequisites:</strong> Knowledge of C# programming would be useful, but not required.
 As for programming knowledge, its mainly going to be variables:
 <pre class="line-numbers">
-  <code class="language-css">
- Vector3 direction = new Vector3(1,1,1);
+  <code class="language-aspnet">
+Vector3 direction = new Vector3(1,1,1);
   </code>
 </pre>
 and if else statements:<br>
 <pre class="line-numbers">
-  <code class="language-css">
-if (Input.GetButtonDown('Jump')){transform.translate(direction);}
+  <code class="language-aspnet">
+if (Input.GetButtonDown('Jump')){
+  transform.translate(direction);
+}
   </code>
 </pre>
 

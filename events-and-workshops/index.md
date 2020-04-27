@@ -4,35 +4,35 @@ published: true
 ---
 
 ## Invitation to participate in BuildingBloCS 2020, Singapore's largest for students by students Computing education outreach programme.
-========================================================================================================================================
 
-Before we start, please join BuildingBloCS’s discord server @ https://discord.gg/hfRDun5 
+
+Before we start, please join BuildingBloCS’s Discord server @ https://discord.gg/hfRDun5  
 We would be posting regular updates through the server and it would be the easiest and quickest way to get the most up-to-date information regarding upcoming BuildingBloCS events and workshops!
 
-This year, BuildingBloCS is going ONLINE! We would like to invite all Computing students and students interested in Computing to join us for two exciting half days of fun, learning and friendship. Sign up [here.]({{ site.baseurl }}/register)
+This year, BuildingBloCS is going ONLINE! We would like to invite all Computing students and students interested in Computing to join us for two exciting half days of fun, learning and friendship. Sign up [here]({{ site.baseurl }}/register).
 
 ## Programme schedule:
 **Thu 14 May**
-0900 - 0910 Day 1 Opening and entertainment\
-0910 - 0930 Talk by GovTech\
-0930 - 1000 Icebreaking @ Skribbl.io\
-0950 - 1000 Break Loop\
-1000 - 1110 Battle it out @ CodeCombat\
-1110 - 1140 Baking with Matplotlib (may overrun)\
-1140 - 1150 Day 1 Closing\
-1150 - 1200 Lucky draw and entertainment and photo-taking\
-1200 - 1300 Lunch\
-1300 - TBC  Lightning Workshops X Daily Applications of Computing\
+0900 - 0910 Day 1 Opening and entertainment  
+0910 - 0930 Talk by GovTech  
+0930 - 1000 Icebreaking @ Skribbl.io  
+0950 - 1000 Break Loop  
+1000 - 1110 Battle it out @ CodeCombat  
+1110 - 1140 Baking with Matplotlib (may overrun)  
+1140 - 1150 Day 1 Closing  
+1150 - 1200 Lucky draw and entertainment and photo-taking  
+1200 - 1300 Lunch  
+1300 - TBC  Lightning Workshops X Daily Applications of Computing  
 
 **Fri 15 May**
-0900 - 0910 Day 2 Opening and entertainment\
-0910 - 0930 Talk by Google\
-0930 - 1100 BBCS X The Amazing Race\
-1100 - 1110 Break Loop\
-1110 - 1140 Lightning Workshops X The fun stuff\
-1140 - 1150 Day 2 Closing\
-1150 - 1200 Lucky draw and entertainment and photo-taking\
-1200 - TBC  Lightning Workshops X Some other fun stuff\  
+0900 - 0910 Day 2 Opening and entertainment  
+0910 - 0930 Talk by Google  
+0930 - 1100 BBCS X The Amazing Race  
+1100 - 1110 Break Loop  
+1110 - 1140 Lightning Workshops X The fun stuff  
+1140 - 1150 Day 2 Closing  
+1150 - 1200 Lucky draw and entertainment and photo-taking  
+1200 - TBC  Lightning Workshops X Some other fun stuff    
 
 
 Apart from the conference, there are also other online activities to sign up:   
@@ -90,8 +90,8 @@ We have a host of workshops awaiting you to cater to your varying interests! Ent
 
 **All events are free and limited places are available. Students can register at BuildingBloCS.github.io.**
 
-**Those who are actively engaged will get to win attractive lucky draw prizes. :)**\
+**Those who are actively engaged will get to win attractive lucky draw prizes. :)**  
 
-*One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man.*\
+*One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man.*  
 
 BuildingBloCS 2020 is proudly organised by JC and Integrated Programme Computing students in collaboration with MOE and industry partners.

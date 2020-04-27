@@ -49,10 +49,10 @@ Participate in an Amazing Race style online competition with multiple stages and
 </details>
 </div>
 
-
-> Apart from the conference, there are also other online activities to sign up:   
-
 <br>
+**Apart from the conference, there are also other online activities to sign up:**   
+
+<br><br>
 ## BBCS X Games  
 
 Learn programming in a fun and interactive way through our CodeCombat tournament and The Amazing Race! Choose to compete in the Introduction Python or JavaScript courses in CodeCombat and participate in The Amazing that introduces many computing concepts such as computational thinking, databases and many more!  
@@ -103,8 +103,7 @@ We have a host of workshops awaiting you to cater to your varying interests! Ent
 *Information coming soon*
 
 <br><br><br>
-> **All events are free and limited places are available. Students can register at BuildingBloCS.github.io.**
-
+> **All events are free and limited places are available. Students can register at BuildingBloCS.github.io.**  
 > **Those who are actively engaged will get to win attractive lucky draw prizes. :)**  
 
 *One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man.*  

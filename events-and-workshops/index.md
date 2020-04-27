@@ -19,7 +19,7 @@ This year, BuildingBloCS is going ONLINE! We would like to invite all Computing 
 0910 - 0930 Talk by GovTech  
 0930 - 1000 Icebreaking @ Skribbl.io  
 0950 - 1000 Break Loop  
-1000 - 1110 Battle it out @ CodeCombat<sup>1</sup>  
+1000 - 1110 Battle it out @ CodeCombat<sup>[1]</sup>  
 1110 - 1140 Baking with Matplotlib (timing to be confirmed)  
 1140 - 1150 Day 1 Closing  
 1150 - 1200 Lucky draw and entertainment and photo-taking  
@@ -29,7 +29,7 @@ This year, BuildingBloCS is going ONLINE! We would like to invite all Computing 
 **Fri 15 May**  
 0900 - 0910 Day 2 Opening and entertainment  
 0910 - 0930 Talk by Google  
-0930 - 1100 BBCS X The Amazing Race<sup>2</sup>  
+0930 - 1100 BBCS X The Amazing Race<sup>[2]</sup>  
 1100 - 1110 Break Loop  
 1110 - 1140 Lightning Workshops X Unique Applications of Computing  
 1140 - 1150 Day 2 Closing  
@@ -37,14 +37,14 @@ This year, BuildingBloCS is going ONLINE! We would like to invite all Computing 
 
 <div>
 <details>
-  <summary><strong><sup>1</sup>CodeCombat</strong></summary>
+  <summary><strong>1: CodeCombat</strong></summary>
 [CodeCombat](https://codecombat.com/) is an online multiplayer game that requires players to utilise code to complete various levels. Unlike typical games which are rigidly based on superficial input, CodeCombat centers itself on tasking players to directly script and code the behaviours of their characters. No WASD keys, R1 to fire, etc. CodeCombat is of a higher level. Code to conquer. Ctrl W to quit. 
 </details>  
   
 <br>
 
 <details>
-<summary><strong><sup>2</sup>The Amazing Race</strong></summary>
+<summary><strong>2: The Amazing Race</strong></summary>
 Participate in an Amazing Race style online competition with multiple stages and tasks based on computing related topics. 
 Participants will be working in groups to tackle a variety of programming problems, each relating to a H2 Computing topic or BBCS workshop. At the end of each stage, participants will play a little scavenger hunt to look for the hidden password which will eventually unlock the final puzzle. Members will have to work together to overcome these unique programming tasks.
 </details>

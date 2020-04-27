@@ -52,13 +52,22 @@ Participate in an Amazing Race style online competition with multiple stages and
 <br>
 **Apart from the conference, there are also other online activities to sign up:**   
 
-<br><br>
+<br>
 ## BBCS X Games  
 
 Learn programming in a fun and interactive way through our CodeCombat tournament and The Amazing Race! Choose to compete in the Introduction Python or JavaScript courses in CodeCombat and participate in The Amazing that introduces many computing concepts such as computational thinking, databases and many more!  
 
 <sup>**P.S.
 There are lots of attractive prizes to be won so sign up for both days of the main conference to take part in these games! :)**</sup> 
+
+<br>
+## BBCS X Baking  
+
+Cookies! Do they sound like yummy snacks? Well, they can also be fun to code!
+
+In this workshop, you will be learning some interesting computing concepts integrating baking as a metaphor! By relating baking in real life to coding, we will be able to create some cool personalised cookies!  
+
+***Yes we have baking!***    
 
 <br>
 ## BBCS X Coursemology  
@@ -73,15 +82,7 @@ Every topic is made easy to understand through a series of questions that system
 ## [More details >>](https://buildingblocs.github.io/2020/pre-event/coursemology/)  
 
 <br>
-## BBCS X Baking  
 
-Cookies! Do they sound like yummy snacks? Well, they can also be fun to code!
-
-In this workshop, you will be learning some interesting computing concepts integrating baking as a metaphor! By relating baking in real life to coding, we will be able to create some cool personalised cookies!  
-
-***Yes we have baking!***    
-
-<br>
 ## BBCS X Workshops  
 
 Have you ever wanted to learn about lane detection (OpenCV), or build your own website (Flask)? 
@@ -103,7 +104,7 @@ We have a host of workshops awaiting you to cater to your varying interests! Ent
 *Information coming soon*
 
 <br><br><br>
-> **All events are free and limited places are available. Students can register at BuildingBloCS.github.io.**  
+> **All events are free and limited places are available. Students can register at BuildingBloCS.github.io.**<br><br>
 > **Those who are actively engaged will get to win attractive lucky draw prizes. :)**  
 
 *One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man.*  

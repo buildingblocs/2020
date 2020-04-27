@@ -37,19 +37,15 @@ This year, BuildingBloCS is going ONLINE! We would like to invite all Computing 
 
 <div>
 <details>
-  <summary><strong>[1: CodeCombat](https://codecombat.com/)</strong></summary><br>
-> CodeCombat is an online multiplayer game that requires players to utilise code to complete various levels. Unlike typical games which > are rigidly based on superficial input, CodeCombat centers itself on tasking players to directly script and code the behaviours of 
-> their characters. No WASD keys, R1 to fire, etc. CodeCombat is of a higher level. Code to conquer. Ctrl W to quit.
+  <summary><strong>1: CodeCombat</strong></summary><br>
+> CodeCombat is an online multiplayer game that requires players to utilise code to complete various levels. Unlike typical games which are rigidly based on superficial input, CodeCombat centers itself on tasking players to directly script and code the behaviours of their characters. No WASD keys, R1 to fire, etc. CodeCombat is of a higher level. Code to conquer. Ctrl W to quit.
 </details>  
   
 <br>
 
 <details>
 <summary><strong>2: The Amazing Race</strong></summary><br>
-> Participate in an Amazing Race style online competition with multiple stages and tasks based on computing related topics. 
-> Participants will be working in groups to tackle a variety of programming problems, each relating to a H2 Computing topic or BBCS 
-> workshop. At the end of each stage, participants will play a little scavenger hunt to look for the hidden password which will 
-> eventually unlock the final puzzle. Members will have to work together to overcome these unique programming tasks.
+> Participate in an Amazing Race style online competition with multiple stages and tasks based on computing related topics. Participants will be working in groups to tackle a variety of programming problems, each relating to a H2 Computing topic or BBCS workshop. At the end of each stage, participants will play a little scavenger hunt to look for the hidden password which will eventually unlock the final puzzle. Members will have to work together to overcome these unique programming tasks.
 </details>
 </div>
 
@@ -61,8 +57,8 @@ Apart from the conference, there are also other online activities to sign up:
 
 Learn programming in a fun and interactive way through our CodeCombat tournament and The Amazing Race! Choose to compete in the Introduction Python or JavaScript courses in CodeCombat and participate in The Amazing that introduces many computing concepts such as computational thinking, databases and many more!  
 
-<sub>**P.S.
-There are lots of attractive prizes to be won so sign up for both days of the main conference to take part in these games! :)**</sub> 
+<sup>**P.S.
+There are lots of attractive prizes to be won so sign up for both days of the main conference to take part in these games! :)**</sup> 
 
 
 ## BBCS X Coursemology  
@@ -72,7 +68,7 @@ Do you want to further your knowledge in Python? Sign up for Coursemology to gai
 Every topic is made easy to understand through a series of questions that systematically guide your thinking process, allowing you to apply the mathematical concepts you already know in unique and interesting ways, and fun and exciting storylines allowing you to see applications of such knowledge in the real world.
 
 
-<sub>**P.S. The top 5 scorers of the year get some spicy prizes!**</sub>  
+<sup>**P.S. The top 5 scorers of the year get some spicy prizes!**</sup>  
 
 ## [More details >>](https://buildingblocs.github.io/2020/pre-event/coursemology/)  
 

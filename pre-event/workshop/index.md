@@ -10,7 +10,7 @@ By the end of the workshop, participants would learn
 - If statements, lists, loops
 - create some simple programmes, (e.g. mark to grade converter/calculator)
   
-> **Prequisites: Nothing much other than a desire to learn!**
+> **Prerequisites: Nothing much other than a desire to learn!**
 
 ### Introduction to SQL
 SQL forms an important part in our applications, by helping to store a variety of user data!
@@ -18,7 +18,7 @@ Participants will explore the concepts of:
 - normalized databases
 - sql technologies
 
-> **Prequisites: Basic Knowledge of Python (Intro to Python Workshop)**
+> **Prerequisites: Basic Knowledge of Python (Intro to Python Workshop)**
 
 ### Introduction to HTML/CSS
 By the end of the workshop, participants will be able to:
@@ -29,7 +29,7 @@ By the end of the workshop, participants will be able to:
 ### Introduction to Flask
 Flask is used to write web applications in Python. By the end, participants will understand the basics of Flask and have their own Flask application that makes use of an API (Application Programming Interface)
   
-> **Prequisites: Basic Knowledge of Python (Intro to Python Workshop)**
+> **Prerequisites: Basic Knowledge of Python (Intro to Python Workshop)**
 
 ### Introduction to Javascript
 JavaScript is an extremely popular programming language used primarily by Web 
@@ -44,14 +44,14 @@ that tells you the time using nodejs* and learn to host it online for free!
 ### Introduction to noSQL
 After learning SQL, why not learn NoSQL? NoSQL databases (aka "not only SQL") are non tabular, and store data differently than relational tables (aka SQL). NoSQL databases come in a variety of types based on their data model. The main types are document, key-value, wide-column, and graph. They provide flexible schemas and scale easily with large amounts of data and high user loads.
   
-> **Prequisites: Basic Knowledge of Python (Intro to Python Workshop)**
+> **Prerequisites: Basic Knowledge of Python (Intro to Python Workshop)**
 
 ### Introduction to Cybersecurity
 Cyberattacks are increasingly becoming more common, while our reliance on digital systems has increased significantly. A sound understanding of cybersecurity principles would thus go a long way in helping to ensure one stays cyber secure. 
 
 In this course, we will be embarking on a Capture-the-Flag style competition where participants will go through some Basic Web/ Forensics/ Cryptography Concepts.   
   
-> **Prequisites: Basic Knowledge of Python would be helpful (Intro to Python Workshop)**
+> **Prerequisites: Basic Knowledge of Python would be helpful (Intro to Python Workshop)**
 
 ### Introduction to OpenCV
 ![](https://user-images.githubusercontent.com/47784720/80275797-349dab80-8716-11ea-8b11-ce656342ae73.png)
@@ -70,24 +70,25 @@ In Part 2, We will be learning how to make use of the slider trackbars to isolat
 certain colors of an image. We will also explore the math behind Canny Edge 
 Detection. Participants will also get to embark on a future project!
 
-> **Prequisites: Basic Knowledge of Python (Intro to Python Workshop)**
+> **Prerequisites: Basic Knowledge of Python (Intro to Python Workshop)**
 
 ### Introduction to Git
 
 Open source development is increasingly prevalent in software development, powering many devices that we use daily. Originally developed for the managing the Linux Operating System, Git is an extremely powerful tool for managing computing projects. Participants will learn what Git is and how it is different from GitHub, what programmers can use Git for, learn to perform basic operations (commit, pull etc) using a Git GUI Client, perform simple collaborative operations (merge, forking) and understand the use of pull requests in working on public open source projects
   
-> **Prequisites: A little knowledge of terminal/Command Prompt commands would be helpful but not essential**
+> **Prerequisites: A little knowledge of terminal/Command Prompt commands would be helpful but not essential**
 
 
 ### Introduction to Unity
 
 Participants will be introduced to the the Game Loop, 2D Space, Collision detection, and make a simple game involving moving the player character
   
-**Prequisites: Knowledge of C# programming would be useful, but not required.
+**Prerequisites: Knowledge of C# programming would be useful, but not required.
 As for programming knowledge, its mainly going to be variables:**
 
+eg.
 ```c#
-eg. Vector3 direction = new Vector3(1,1,1);
+Vector3 direction = new Vector3(1,1,1);
 ```
 
 and if else statements:

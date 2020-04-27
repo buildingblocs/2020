@@ -40,7 +40,7 @@ This year, BuildingBloCS is going ONLINE! We would like to invite all Computing 
 [CodeCombat](https://codecombat.com/) is an online multiplayer game that requires players to utilise code to complete various levels. Unlike typical games which are rigidly based on superficial input, CodeCombat centers itself on tasking players to directly script and code the behaviours of their characters. No WASD keys, R1 to fire, etc. CodeCombat is of a higher level. Code to conquer. Ctrl W to quit. 
 </details>  
   
-<br></br>
+<br>
 
 <details>
 <summary><strong>The Amazing Race</strong></summary>

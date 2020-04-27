@@ -12,6 +12,9 @@ published: true
         <p>
             {{ site.date }} {{ site.location }} :)<!--
         </p>
+	<p>
+ 	    ## [Register for conference >>](https://tinyurl.com/bbcs20conference)
+	</p>
         <p> <!-- /register-->
             <!--<a class="btn" href="{{ site.baseurl }}/contact#location">Get there</a> -->
             <!--<a class="btn" href="{{ site.baseurl }}/register">Register</a> -->

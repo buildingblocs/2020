@@ -4,99 +4,88 @@ layout: default
 
 ## Python Workshop Series (Upcoming, [**sign up here!**](https://forms.gle/wdzqCbVki58rj7da9)😄) 
 
-<details>
-<summary><strong>Introduction to Python</strong></summary>
+### Introduction to Python
 By the end of the workshop, participants would learn 
-- the basics of python
+- the basics of python 
 - If statements, lists, loops
 - create some simple programmes, (e.g. mark to grade converter/calculator)
   
-<strong>Prequisites:</strong> Nothing much other than a desire to learn!
-</details>
+> **Prequisites: Nothing much other than a desire to learn!**
 
-<details>
-<summary><strong>Introduction to SQL</strong></summary>
+### Introduction to SQL
 SQL forms an important part in our applications, by helping to store a variety of user data!
 Participants will explore the concepts of:
 - normalized databases
 - sql technologies
 
-<strong>Prequisites:</strong> Basic Knowledge of Python (Intro to Python Workshop)
-</details>
+> **Prequisites: Basic Knowledge of Python (Intro to Python Workshop)**
 
-<details><summary><strong>Introduction to HTML/CSS</strong></summary>
+### Introduction to HTML/CSS
 By the end of the workshop, participants will be able to:
 - understand the basics of HTML and CSS
 - build their own simple webpage  
-</details>
-  
-<details><summary><strong>Introduction to Flask</strong></summary>
-Flask is used to write web applications in Python. By the end, participants will understand the basics of Flask and have their own Flask application that makes use of an API (Application Programming Interface) <br>
-  
-  <strong>Prequisites:</strong> Basic Knowledge of Python (Intro to Python Workshop)
-</details>
 
-<details>
-<summary><strong>Introduction to Javascript</strong></summary>
+  
+### Introduction to Flask
+Flask is used to write web applications in Python. By the end, participants will understand the basics of Flask and have their own Flask application that makes use of an API (Application Programming Interface)
+  
+> **Prequisites: Basic Knowledge of Python (Intro to Python Workshop)**
+
+### Introduction to Javascript
 JavaScript is an extremely popular programming language used primarily by Web 
 browsers to create a dynamic and interactive experience for the user. 
 Most of the functions and applications that make the Internet 
 indispensable to modern life are coded in some form of JavaScript. 
-<br>
-At the end of the course, participants will be able to create a simple <strong>discord bot
-that tells you the time using nodejs</strong> and learn to host it online for free!
-</details>
 
-<details>
-<summary><strong>Introduction to noSQL</strong></summary>
-After learning SQL, why not learn NoSQL? NoSQL databases (aka "not only SQL") are non tabular, and store data differently than relational tables (aka SQL). <br> NoSQL databases come in a variety of types based on their data model. The main types are document, key-value, wide-column, and graph. They provide flexible schemas and scale easily with large amounts of data and high user loads.
+At the end of the course, participants will be able to create a simple *discord bot
+that tells you the time using nodejs* and learn to host it online for free!
+
+
+### Introduction to noSQL
+After learning SQL, why not learn NoSQL? NoSQL databases (aka "not only SQL") are non tabular, and store data differently than relational tables (aka SQL). NoSQL databases come in a variety of types based on their data model. The main types are document, key-value, wide-column, and graph. They provide flexible schemas and scale easily with large amounts of data and high user loads.
   
- <strong>Prequisites:</strong> Basic Knowledge of Python (Intro to Python Workshop)
-</details>
+> **Prequisites: Basic Knowledge of Python (Intro to Python Workshop)**
 
-<details>
-<summary><strong>Introduction to Cybersecurity</strong></summary>
+### Introduction to Cybersecurity
 Cyberattacks are increasingly becoming more common, while our reliance on digital systems has increased significantly. A sound understanding of cybersecurity principles would thus go a long way in helping to ensure one stays cyber secure. 
-<br>
+
 In this course, we will be embarking on a Capture-the-Flag style competition where participants will go through some Basic Web/ Forensics/ Cryptography Concepts.   
   
-  <strong>Prequisites:</strong> Basic Knowledge of Python would be helpful (Intro to Python Workshop)
-</details>
+> **Prequisites: Basic Knowledge of Python would be helpful (Intro to Python Workshop)**
 
-<details>
-<summary><strong>Introduction to OpenCV</strong></summary><br>
-<img src="https://user-images.githubusercontent.com/47784720/80275797-349dab80-8716-11ea-8b11-ce656342ae73.png" alt="EdgeDunmanHigh" width="600"/><br>
-<strong>Part 1</strong><br>
+### Introduction to OpenCV
+![](https://user-images.githubusercontent.com/47784720/80275797-349dab80-8716-11ea-8b11-ce656342ae73.png)
+> Wonder what's behind this photo?
+
+#### Part 1
+
 Open CV is a powerful library used to analyse images and videos! Equip 
 youselves with the knowledge about the various Open CV features. In Part 1,
 we will be introducing the fundamentals of opencv, starting with Trackbars and
 Histograms (both static and video analysis)
-<br>
-<strong>Part 2</strong>
-<br>
+
+#### Part 2
+
 In Part 2, We will be learning how to make use of the slider trackbars to isolate
 certain colors of an image. We will also explore the math behind Canny Edge 
 Detection. Participants will also get to embark on a future project!
-  <br>
-  <strong>Prequisites:</strong> Basic Knowledge of Python (Intro to Python Workshop)
-</details>
 
-<details>
-<summary><strong>Introduction to Git</strong></summary>
+> **Prequisites: Basic Knowledge of Python (Intro to Python Workshop)**
+
+### Introduction to Git
+
 Open source development is increasingly prevalent in software development, powering many devices that we use daily. Originally developed for the managing the Linux Operating System, Git is an extremely powerful tool for managing computing projects. Participants will learn what Git is and how it is different from GitHub, what programmers can use Git for, learn to perform basic operations (commit, pull etc) using a Git GUI Client, perform simple collaborative operations (merge, forking) and understand the use of pull requests in working on public open source projects
   
-<strong>Prequisites:</strong> A little knowledge of terminal/Command Prompt commands would be helpful but not essential
-</details>
+> **Prequisites: A little knowledge of terminal/Command Prompt commands would be helpful but not essential**
 
-<details>
-<summary><strong>Introduction to Unity</strong></summary>
+
+### Introduction to Unity
+
 Participants will be introduced to the the Game Loop, 2D Space, Collision detection, and make a simple game involving moving the player character
   
-  <br>
-<strong>Prequisites:</strong> Knowledge of C# programming would be useful, but not required.
-As for programming knowledge, its mainly going to be variables:
-<div>
-  
+**Prequisites: Knowledge of C# programming would be useful, but not required.
+As for programming knowledge, its mainly going to be variables:**
+
 ```c#
 eg. Vector3 direction = new Vector3(1,1,1);
 ```
@@ -106,8 +95,6 @@ and if else statements:
 ```c#
 if (Input.GetButtonDown('Jump')){transform.translate(direction);}
 ```
-</div>
-</details>
 
 
 ## Past Python Workshops

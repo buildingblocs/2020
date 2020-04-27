@@ -3,10 +3,10 @@ layout: default
 published: true
 ---
 
-## Invitation to participate in BuildingBloCS 2020, Singapore's largest for students by students Computing education outreach programme.  
+> ## Invitation to participate in BuildingBloCS 2020, Singapore's largest for students by students Computing education outreach programme.  
 
 
-Before we start, please join BuildingBloCS’s **Discord server @ [https://discord.gg/hfRDun5](https://discord.gg/hfRDun5)**  
+**Before we start, please join BuildingBloCS’s Discord server @ [https://discord.gg/hfRDun5](https://discord.gg/hfRDun5)**  
 We would be posting regular updates through the server and it would be the easiest and quickest way to get the most up-to-date information regarding upcoming BuildingBloCS events and workshops!
 
 This year, BuildingBloCS is going ONLINE! We would like to invite all Computing students and students interested in Computing to join us for two exciting half days of fun, learning and friendship.  
@@ -50,9 +50,9 @@ Participate in an Amazing Race style online competition with multiple stages and
 </div>
 
 
-Apart from the conference, there are also other online activities to sign up:   
+> Apart from the conference, there are also other online activities to sign up:   
 
-
+<br>
 ## BBCS X Games  
 
 Learn programming in a fun and interactive way through our CodeCombat tournament and The Amazing Race! Choose to compete in the Introduction Python or JavaScript courses in CodeCombat and participate in The Amazing that introduces many computing concepts such as computational thinking, databases and many more!  
@@ -60,7 +60,7 @@ Learn programming in a fun and interactive way through our CodeCombat tournament
 <sup>**P.S.
 There are lots of attractive prizes to be won so sign up for both days of the main conference to take part in these games! :)**</sup> 
 
-
+<br>
 ## BBCS X Coursemology  
 
 Do you want to further your knowledge in Python? Sign up for Coursemology to gain access to many interactive programming courses, covering a variety of topics from basic syntax to data visualisation and manipulation!

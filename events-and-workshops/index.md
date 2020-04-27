@@ -9,7 +9,8 @@ published: true
 Before we start, please join BuildingBloCS’s **Discord server @ [https://discord.gg/hfRDun5](https://discord.gg/hfRDun5)**  
 We would be posting regular updates through the server and it would be the easiest and quickest way to get the most up-to-date information regarding upcoming BuildingBloCS events and workshops!
 
-This year, BuildingBloCS is going ONLINE! We would like to invite all Computing students and students interested in Computing to join us for two exciting half days of fun, learning and friendship. **Sign up [here]({{ site.baseurl }}/register).**
+This year, BuildingBloCS is going ONLINE! We would like to invite all Computing students and students interested in Computing to join us for two exciting half days of fun, learning and friendship.  
+**Sign up [here]({{ site.baseurl }}/register).**
 
 ## Programme schedule:
 **Thu 14 May**  

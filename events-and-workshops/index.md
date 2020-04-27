@@ -37,16 +37,19 @@ This year, BuildingBloCS is going ONLINE! We would like to invite all Computing 
 
 <div>
 <details>
-  <summary><strong>1: [CodeCombat](https://codecombat.com/)</strong></summary><br>
-```CodeCombat is an online multiplayer game that requires players to utilise code to complete various levels. Unlike typical games which are rigidly based on superficial input, CodeCombat centers itself on tasking players to directly script and code the behaviours of their characters. No WASD keys, R1 to fire, etc. CodeCombat is of a higher level. Code to conquer. Ctrl W to quit.```
+  <summary><strong>[1: CodeCombat](https://codecombat.com/)</strong></summary><br>
+> CodeCombat is an online multiplayer game that requires players to utilise code to complete various levels. Unlike typical games which > are rigidly based on superficial input, CodeCombat centers itself on tasking players to directly script and code the behaviours of 
+> their characters. No WASD keys, R1 to fire, etc. CodeCombat is of a higher level. Code to conquer. Ctrl W to quit.
 </details>  
   
 <br>
 
 <details>
 <summary><strong>2: The Amazing Race</strong></summary><br>
->Participate in an Amazing Race style online competition with multiple stages and tasks based on computing related topics. 
->Participants will be working in groups to tackle a variety of programming problems, each relating to a H2 Computing topic or BBCS >workshop. At the end of each stage, participants will play a little scavenger hunt to look for the hidden password which will >eventually unlock the final puzzle. Members will have to work together to overcome these unique programming tasks.
+> Participate in an Amazing Race style online competition with multiple stages and tasks based on computing related topics. 
+> Participants will be working in groups to tackle a variety of programming problems, each relating to a H2 Computing topic or BBCS 
+> workshop. At the end of each stage, participants will play a little scavenger hunt to look for the hidden password which will 
+> eventually unlock the final puzzle. Members will have to work together to overcome these unique programming tasks.
 </details>
 </div>
 

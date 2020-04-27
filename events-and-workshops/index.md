@@ -12,6 +12,7 @@ We would be posting regular updates through the server and it would be the easie
 This year, BuildingBloCS is going ONLINE! We would like to invite all Computing students and students interested in Computing to join us for two exciting half days of fun, learning and friendship.  
 
 **Sign up [here]({{ site.baseurl }}/register).**
+<br>
 
 ## Programme schedule:
 **Thu 14 May**  

@@ -6,7 +6,7 @@ published: true
 ## Invitation to participate in BuildingBloCS 2020, Singapore's largest for students by students Computing education outreach programme.  
 
 
-Before we start, please join BuildingBloCS’s **Discord server @ https://discord.gg/hfRDun5**  
+Before we start, please join BuildingBloCS’s **Discord server @ [https://discord.gg/hfRDun5](https://discord.gg/hfRDun5)**  
 We would be posting regular updates through the server and it would be the easiest and quickest way to get the most up-to-date information regarding upcoming BuildingBloCS events and workshops!
 
 This year, BuildingBloCS is going ONLINE! We would like to invite all Computing students and students interested in Computing to join us for two exciting half days of fun, learning and friendship. **Sign up [here]({{ site.baseurl }}/register).**
@@ -50,7 +50,7 @@ Participate in an Amazing Race style online competition with multiple stages and
 Participants will be working in groups to tackle a variety of programming problems, each relating to a H2 Computing topic or BBCS workshop. At the end of each stage, participants will play a little scavenger hunt to look for the hidden password which will eventually unlock the final puzzle. Members will have to work together to overcome these unique programming tasks.
 
 <sub><sup>**P.S.
-There are lots of attractive prizes to be won so sign up for both days of the main conference to take part in these games! :)**</sub></sup> 
+There are lots of attractive prizes to be won so sign up for both days of the main conference to take part in these games! :)**</sub></sup>  
 
 
 ## BBCS 20 X Coursemology  
@@ -62,7 +62,7 @@ Every topic is made easy to understand through a series of questions that system
 
 <sub><sup>**P.S. The top 5 scorers of the year get some spicy prizes!**</sub></sup> 
 
-
+[More details >>]({{ site.baseurl }}/pre-event/pre-event/coursemology)  
 
 ## BBCS X Baking  
 
@@ -76,17 +76,17 @@ In this workshop, you will be learning some interesting computing concepts integ
 Have you ever wanted to learn about lane detection (OpenCV), or build your own website (Flask)? 
 
 We have a host of workshops awaiting you to cater to your varying interests! Enter the realm of cyber-defenders by taking on a hands-on approach to cybersecurity, or learn how to use SQLite/NoSQL to enrich your web/mobile applications! If you are looking to refresh your programming knowledge/thinking, do drop by the Intro to Python Workshop! Aspiring game developers, you’ll be glad to know that Intro to Unity Workshop awaits you while those eager to enhance your project workflow should partake in the Intro to Git session.  
-  
+
+[More details >>]({{ site.baseurl }}/pre-event/workshop)  
   
 ## BBCS 20 X Lucky Draw  
 
 
+[More details >>]({{ site.baseurl }}/pre-event/pre-event/luckydraw)  
 
 ## BBCS 20 X Entertainment  
 
 *Information coming soon*
-
-
 
 
 

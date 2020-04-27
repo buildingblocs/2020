@@ -3,9 +3,9 @@ layout: default
 published: true
 ---
 
-> ## Invitation to participate in BuildingBloCS 2020, Singapore's largest for students by students Computing education outreach programme.
+> ## Invitation to participate in BuildingBloCS 2020, Singapore's largest for students by students Computing education outreach programme.  
 
-<br><br>
+<br>
 **Before we start, please join BuildingBloCS’s Discord server @ [https://discord.gg/hfRDun5](https://discord.gg/hfRDun5)**  
 We would be posting regular updates through the server and it would be the easiest and quickest way to get the most up-to-date information regarding upcoming BuildingBloCS events and workshops!
 

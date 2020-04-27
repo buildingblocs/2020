@@ -19,7 +19,8 @@ This year, BuildingBloCS is going ONLINE! We would like to invite all Computing 
 0910 - 0930 Talk by GovTech  
 0930 - 1000 Icebreaking @ Skribbl.io  
 0950 - 1000 Break Loop  
-1000 - 1110 <details><summary><strong>Battle it out @ CodeCombat</strong></summary>
+1000 - 1110 
+<details><summary><strong>Battle it out @ CodeCombat</strong></summary>
 [CodeCombat](https://codecombat.com/) is an online multiplayer game that requires players to utilise code to complete various levels. Unlike typical games which are rigidly based on superficial input, CodeCombat centers itself on tasking players to directly script and code the behaviours of their characters. No WASD keys, R1 to fire, etc. CodeCombat is of a higher level. Code to conquer. Ctrl W to quit. 
 </details>  
 1110 - 1140 Baking with Matplotlib (timing to be confirmed)  

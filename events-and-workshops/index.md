@@ -42,7 +42,7 @@ Apart from the conference, there are also other online activities to sign up:
 
 Learn programming in a fun and interactive way through our CodeCombat tournament and The Amazing Race! Choose to compete in the Introduction Python or JavaScript courses in CodeCombat and participate in The Amazing that introduces many computing concepts such as computational thinking, databases and many more!
 
-**CodeCombat**  
+**[CodeCombat](https://codecombat.com/)**  
 CodeCombat is an online multiplayer game that requires players to utilise code to complete various levels. Unlike typical games which are rigidly based on superficial input, CodeCombat centers itself on tasking players to directly script and code the behaviours of their characters. No WASD keys, R1 to fire, etc. CodeCombat is of a higher level. Code to conquer. Ctrl W to quit. 
 
 **The Amazing Race**  
@@ -60,9 +60,9 @@ Do you want to further your knowledge in Python? Sign up for Coursemology to gai
 Every topic is made easy to understand through a series of questions that systematically guide your thinking process, allowing you to apply the mathematical concepts you already know in unique and interesting ways, and fun and exciting storylines allowing you to see applications of such knowledge in the real world.
 
 
-<sub>**P.S. The top 5 scorers of the year get some spicy prizes!**</sub>
+<sup>**P.S. The top 5 scorers of the year get some spicy prizes!**</sup>  
 
-[More details >>]({{ site.baseurl }}/pre-event/pre-event/coursemology)  
+<iframe class="w100" height="900" src="https://buildingblocs.github.io/2020/pre-event/coursemology/"></iframe>  
 
 ## BBCS X Baking  
 
@@ -78,13 +78,13 @@ Have you ever wanted to learn about lane detection (OpenCV), or build your own w
 
 We have a host of workshops awaiting you to cater to your varying interests! Enter the realm of cyber-defenders by taking on a hands-on approach to cybersecurity, or learn how to use SQLite/NoSQL to enrich your web/mobile applications! If you are looking to refresh your programming knowledge/thinking, do drop by the Intro to Python Workshop! Aspiring game developers, you’ll be glad to know that Intro to Unity Workshop awaits you while those eager to enhance your project workflow should partake in the Intro to Git session.  
 
-[More details >>]({{ site.baseurl }}/pre-event/workshop)  
+<iframe class="w100" height="900" src="https://buildingblocs.github.io/2020/pre-event/workshop/"></iframe>  
   
 ## BBCS X Lucky Draw  
 
 *Information coming soon*
 
-[More details >>]({{ site.baseurl }}/pre-event/pre-event/luckydraw)  
+<iframe class="w100" height="900" src="https://buildingblocs.github.io/2020/pre-event/luckydraw/"></iframe>  
 
 ## BBCS X Entertainment  
 

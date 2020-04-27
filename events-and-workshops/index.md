@@ -33,6 +33,19 @@ This year, BuildingBloCS is going ONLINE! We would like to invite all Computing 
 1140 - 1150 Day 2 Closing  
 1150 - 1200 Lucky draw and entertainment and photo-taking  
 
+<div>
+<details>
+<summary><strong>CodeCombat</strong></summary>
+[CodeCombat](https://codecombat.com/) is an online multiplayer game that requires players to utilise code to complete various levels. Unlike typical games which are rigidly based on superficial input, CodeCombat centers itself on tasking players to directly script and code the behaviours of their characters. No WASD keys, R1 to fire, etc. CodeCombat is of a higher level. Code to conquer. Ctrl W to quit. 
+</details>  
+  
+  
+<details>
+<summary><strong>The Amazing Race</strong></summary>
+Participate in an Amazing Race style online competition with multiple stages and tasks based on computing related topics. 
+Participants will be working in groups to tackle a variety of programming problems, each relating to a H2 Computing topic or BBCS workshop. At the end of each stage, participants will play a little scavenger hunt to look for the hidden password which will eventually unlock the final puzzle. Members will have to work together to overcome these unique programming tasks.
+</details>
+</div>
 
 
 Apart from the conference, there are also other online activities to sign up:   
@@ -42,8 +55,8 @@ Apart from the conference, there are also other online activities to sign up:
 
 Learn programming in a fun and interactive way through our CodeCombat tournament and The Amazing Race! Choose to compete in the Introduction Python or JavaScript courses in CodeCombat and participate in The Amazing that introduces many computing concepts such as computational thinking, databases and many more!
 
-**[CodeCombat](https://codecombat.com/)**  
-CodeCombat is an online multiplayer game that requires players to utilise code to complete various levels. Unlike typical games which are rigidly based on superficial input, CodeCombat centers itself on tasking players to directly script and code the behaviours of their characters. No WASD keys, R1 to fire, etc. CodeCombat is of a higher level. Code to conquer. Ctrl W to quit. 
+**CodeCombat**  
+[CodeCombat](https://codecombat.com/) is an online multiplayer game that requires players to utilise code to complete various levels. Unlike typical games which are rigidly based on superficial input, CodeCombat centers itself on tasking players to directly script and code the behaviours of their characters. No WASD keys, R1 to fire, etc. CodeCombat is of a higher level. Code to conquer. Ctrl W to quit. 
 
 **The Amazing Race**  
 Participate in an Amazing Race style online competition with multiple stages and tasks based on computing related topics. 
@@ -62,7 +75,7 @@ Every topic is made easy to understand through a series of questions that system
 
 <sub>**P.S. The top 5 scorers of the year get some spicy prizes!**</sub>  
 
-## [More details >>](https://buildingblocs.github.io/2020/pre-event/coursemology/)
+## [More details >>](https://buildingblocs.github.io/2020/pre-event/coursemology/)  
 
 ## BBCS X Baking  
 
@@ -78,13 +91,13 @@ Have you ever wanted to learn about lane detection (OpenCV), or build your own w
 
 We have a host of workshops awaiting you to cater to your varying interests! Enter the realm of cyber-defenders by taking on a hands-on approach to cybersecurity, or learn how to use SQLite/NoSQL to enrich your web/mobile applications! If you are looking to refresh your programming knowledge/thinking, do drop by the Intro to Python Workshop! Aspiring game developers, you’ll be glad to know that Intro to Unity Workshop awaits you while those eager to enhance your project workflow should partake in the Intro to Git session.  
 
-## [More details >>](https://buildingblocs.github.io/2020/pre-event/workshop/)
+## [More details >>](https://buildingblocs.github.io/2020/pre-event/workshop/)  
   
 ## BBCS X Lucky Draw  
 
 *Information coming soon*
 
-## [More details >>](https://buildingblocs.github.io/2020/pre-event/luckydraw/)
+## [More details >>](https://buildingblocs.github.io/2020/pre-event/luckydraw/)  
 
 ## BBCS X Entertainment  
 

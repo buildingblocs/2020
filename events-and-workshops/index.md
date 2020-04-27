@@ -60,9 +60,9 @@ Do you want to further your knowledge in Python? Sign up for Coursemology to gai
 Every topic is made easy to understand through a series of questions that systematically guide your thinking process, allowing you to apply the mathematical concepts you already know in unique and interesting ways, and fun and exciting storylines allowing you to see applications of such knowledge in the real world.
 
 
-<sup>**P.S. The top 5 scorers of the year get some spicy prizes!**</sup>  
+<sub>**P.S. The top 5 scorers of the year get some spicy prizes!**</sub>  
 
-<iframe class="w100" height="900" src="https://buildingblocs.github.io/2020/pre-event/coursemology/"></iframe>  
+## [More details >>](https://buildingblocs.github.io/2020/pre-event/coursemology/)
 
 ## BBCS X Baking  
 
@@ -78,13 +78,13 @@ Have you ever wanted to learn about lane detection (OpenCV), or build your own w
 
 We have a host of workshops awaiting you to cater to your varying interests! Enter the realm of cyber-defenders by taking on a hands-on approach to cybersecurity, or learn how to use SQLite/NoSQL to enrich your web/mobile applications! If you are looking to refresh your programming knowledge/thinking, do drop by the Intro to Python Workshop! Aspiring game developers, you’ll be glad to know that Intro to Unity Workshop awaits you while those eager to enhance your project workflow should partake in the Intro to Git session.  
 
-<iframe class="w100" height="900" src="https://buildingblocs.github.io/2020/pre-event/workshop/"></iframe>  
+## [More details >>](https://buildingblocs.github.io/2020/pre-event/workshop/)
   
 ## BBCS X Lucky Draw  
 
 *Information coming soon*
 
-<iframe class="w100" height="900" src="https://buildingblocs.github.io/2020/pre-event/luckydraw/"></iframe>  
+## [More details >>](https://buildingblocs.github.io/2020/pre-event/luckydraw/)
 
 ## BBCS X Entertainment  
 

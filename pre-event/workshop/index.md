@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Python Workshop Series (Upcoming, [**sign up here!**](https://forms.gle/wdzqCbVki58rj7da9)😄) 
+## 2020 Workshop Series (Upcoming, [**sign up here!**](https://forms.gle/wdzqCbVki58rj7da9)😄) 
 
 <div>
 <details>

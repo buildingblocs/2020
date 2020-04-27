@@ -29,7 +29,7 @@ This year, BuildingBloCS is going ONLINE! We would like to invite all Computing 
 0910 - 0930 Talk by Google  
 0930 - 1100 BBCS X The Amazing Race  
 1100 - 1110 Break Loop  
-1110 - 1140 Lightning Workshops X Unique Applications of Computing 
+1110 - 1140 Lightning Workshops X Unique Applications of Computing  
 1140 - 1150 Day 2 Closing  
 1150 - 1200 Lucky draw and entertainment and photo-taking  
 
@@ -38,29 +38,29 @@ This year, BuildingBloCS is going ONLINE! We would like to invite all Computing 
 Apart from the conference, there are also other online activities to sign up:   
 
 
-## BBCS 20 X Games  
+## BBCS X Games  
 
 Learn programming in a fun and interactive way through our CodeCombat tournament and The Amazing Race! Choose to compete in the Introduction Python or JavaScript courses in CodeCombat and participate in The Amazing that introduces many computing concepts such as computational thinking, databases and many more!
 
-**CodeCombat**
+**CodeCombat**  
 CodeCombat is an online multiplayer game that requires players to utilise code to complete various levels. Unlike typical games which are rigidly based on superficial input, CodeCombat centers itself on tasking players to directly script and code the behaviours of their characters. No WASD keys, R1 to fire, etc. CodeCombat is of a higher level. Code to conquer. Ctrl W to quit. 
 
-**The Amazing Race**
+**The Amazing Race**  
 Participate in an Amazing Race style online competition with multiple stages and tasks based on computing related topics. 
 Participants will be working in groups to tackle a variety of programming problems, each relating to a H2 Computing topic or BBCS workshop. At the end of each stage, participants will play a little scavenger hunt to look for the hidden password which will eventually unlock the final puzzle. Members will have to work together to overcome these unique programming tasks.
 
-<sub><sup>**P.S.
-There are lots of attractive prizes to be won so sign up for both days of the main conference to take part in these games! :)**</sub></sup>  
+<sub>**P.S.
+There are lots of attractive prizes to be won so sign up for both days of the main conference to take part in these games! :)**</sub> 
 
 
-## BBCS 20 X Coursemology  
+## BBCS X Coursemology  
 
 Do you want to further your knowledge in Python? Sign up for Coursemology to gain access to many interactive programming courses, covering a variety of topics from basic syntax to data visualisation and manipulation!
 
 Every topic is made easy to understand through a series of questions that systematically guide your thinking process, allowing you to apply the mathematical concepts you already know in unique and interesting ways, and fun and exciting storylines allowing you to see applications of such knowledge in the real world.
 
 
-<sub><sup>**P.S. The top 5 scorers of the year get some spicy prizes!**</sub></sup> 
+<sub>**P.S. The top 5 scorers of the year get some spicy prizes!**</sub>
 
 [More details >>]({{ site.baseurl }}/pre-event/pre-event/coursemology)  
 
@@ -69,7 +69,8 @@ Every topic is made easy to understand through a series of questions that system
 Cookies! Do they sound like yummy snacks? Well, they can also be fun to code!
 
 In this workshop, you will be learning some interesting computing concepts integrating baking as a metaphor! By relating baking in real life to coding, we will be able to create some cool personalised cookies!  
-***Yes we have baking!***  
+
+***Yes we have baking!***    
 
 ## BBCS X Workshops  
 
@@ -79,12 +80,13 @@ We have a host of workshops awaiting you to cater to your varying interests! Ent
 
 [More details >>]({{ site.baseurl }}/pre-event/workshop)  
   
-## BBCS 20 X Lucky Draw  
+## BBCS X Lucky Draw  
 
+*Information coming soon*
 
 [More details >>]({{ site.baseurl }}/pre-event/pre-event/luckydraw)  
 
-## BBCS 20 X Entertainment  
+## BBCS X Entertainment  
 
 *Information coming soon*
 

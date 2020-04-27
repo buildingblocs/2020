@@ -37,7 +37,8 @@ This year, BuildingBloCS is going ONLINE! We would like to invite all Computing 
 
 <div>
 <details>
-  <summary><strong>1: CodeCombat</strong></summary><br>[CodeCombat](https://codecombat.com/) is an online multiplayer game that requires players to utilise code to complete various levels. Unlike typical games which are rigidly based on superficial input, CodeCombat centers itself on tasking players to directly script and code the behaviours of their characters. No WASD keys, R1 to fire, etc. CodeCombat is of a higher level. Code to conquer. Ctrl W to quit.
+  <summary><strong>1: CodeCombat</strong></summary><br>
+  CodeCombat is an online multiplayer game that requires players to utilise code to complete various levels. Unlike typical games which are rigidly based on superficial input, CodeCombat centers itself on tasking players to directly script and code the behaviours of their characters. No WASD keys, R1 to fire, etc. CodeCombat is of a higher level. Code to conquer. Ctrl W to quit.
 </details>  
   
 <br>
@@ -71,6 +72,7 @@ Every topic is made easy to understand through a series of questions that system
 
 ## [More details >>](https://buildingblocs.github.io/2020/pre-event/coursemology/)  
 
+<br>
 ## BBCS X Baking  
 
 Cookies! Do they sound like yummy snacks? Well, they can also be fun to code!
@@ -79,6 +81,7 @@ In this workshop, you will be learning some interesting computing concepts integ
 
 ***Yes we have baking!***    
 
+<br>
 ## BBCS X Workshops  
 
 Have you ever wanted to learn about lane detection (OpenCV), or build your own website (Flask)? 
@@ -87,23 +90,22 @@ We have a host of workshops awaiting you to cater to your varying interests! Ent
 
 ## [More details >>](https://buildingblocs.github.io/2020/pre-event/workshop/)  
   
+<br>
 ## BBCS X Lucky Draw  
 
 *Information coming soon*
 
 ## [More details >>](https://buildingblocs.github.io/2020/pre-event/luckydraw/)  
 
+<br>
 ## BBCS X Entertainment  
 
 *Information coming soon*
 
+<br><br><br>
+> **All events are free and limited places are available. Students can register at BuildingBloCS.github.io.**
 
-
-
-
-**All events are free and limited places are available. Students can register at BuildingBloCS.github.io.**
-
-**Those who are actively engaged will get to win attractive lucky draw prizes. :)**  
+> **Those who are actively engaged will get to win attractive lucky draw prizes. :)**  
 
 *One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man.*  
 

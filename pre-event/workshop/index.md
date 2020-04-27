@@ -29,7 +29,7 @@ Participants will explore the concepts of:
 By the end of the workshop, participants will be able to:
 - understand the basics of HTML and CSS
 - build their own simple webpage  
-</details>
+</details><br>
   
 <details><summary><strong>Introduction to Flask</strong></summary>
 Flask is used to write web applications in Python. By the end, participants will understand the basics of Flask and have their own Flask application that makes use of an API (Application Programming Interface) <br>

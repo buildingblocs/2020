@@ -5,7 +5,7 @@ layout: default
 
 # Lucky draw
 
-We will have weekly draws for all the registered participants on every Friday from 19 Apr and your chances accumulate till 7 Jun i.e. a total of 8 lucky draws, and there is no limit to the number of times you can get lucky!
+We will have weekly draws for all the registered participants on every Friday from 19 Apr till the end of BuildingBloCS 2020 and there is no limit to the number of times you can get lucky!
 
 >Lucky draws will take place every Friday at **12 20 pm**
 

@@ -11,9 +11,10 @@ published: true
         </h1>
         <p>
             {{ site.date }} {{ site.location }} :)
-        </p>
-	    
-	## [Register for conference >>](https://tinyurl.com/bbcs20conference)
+        </p>    
+	<p>
+ 	    ## <a href="https://tinyurl.com/bbcs20conference">Register for conference >></a>
+	</p>
 	
 
     </div>

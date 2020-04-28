@@ -13,7 +13,7 @@ This year, BuildingBloCS is going ONLINE! We would like to invite all Computing 
 ## DataCamp Account Sign-up
 If you are keen to learn about data science and would like to request for a full access DataCamp subscription, you can do so by requesting for a full access DataCamp subscription (valid til mid Sep 2020). Do note that accounts are limited.
 
-[Sign up here](http://tinyurl.com/bbcs20datacamp)
+<a class="btn" href="http://tinyurl.com/bbcs20datacamp">Details</a>
 
 ## Coursemology
 Challenge yourself with Project Euler questions and hone your Python programming skills and mathematical knowledge. You will learn how to create different kinds of visualizations for different kinds of data and also make use of cool data science tools to start your own analyses. Join our BBCS Coursemology and start your journey!

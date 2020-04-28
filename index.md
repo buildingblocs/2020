@@ -13,7 +13,7 @@ published: true
             {{ site.date }} {{ site.location }} :)
         </p>    
 	<p>
- 	    ## <a href="https://tinyurl.com/bbcs20conference">Register for conference >></a>
+ 	    <a href="https://tinyurl.com/bbcs20conference">Register for conference >></a>
 	</p>
 	
 

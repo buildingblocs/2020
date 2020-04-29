@@ -12,13 +12,14 @@ Video Links will be updated after the workshops, so stay tuned!
 <details>
 <summary><strong>Introduction to Python</strong></summary>
 
+<br>
 By the end of the workshop, participants would learn 
 - the basics of python
 - If statements, lists, loops
 - create some simple programmes, (e.g. mark to grade converter/calculator)
 
 <br><br><strong>Prerequisites:</strong> Nothing much other than a desire to learn!
-</details><br>
+</details><br><br>
 
 <details>
 <summary><strong>Introduction to SQL</strong></summary>

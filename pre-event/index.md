@@ -10,26 +10,22 @@ This year, BuildingBloCS is going ONLINE! We would like to invite all Computing 
 
 <a class="btn" href="{{ site.baseurl }}/events-and-workshops">Details</a>
 
-<br>
 ## DataCamp Account Sign-up
 If you are keen to learn about data science and would like to request for a full access DataCamp subscription, you can do so by requesting for a full access DataCamp subscription (valid til mid Sep 2020). Do note that accounts are limited.
 
 <a class="btn" href="http://tinyurl.com/bbcs20datacamp">Details</a>
 
-<br>
 ## Coursemology
 Challenge yourself with Project Euler questions and hone your Python programming skills and mathematical knowledge. You will learn how to create different kinds of visualizations for different kinds of data and also make use of cool data science tools to start your own analyses. Join our BBCS Coursemology and start your journey!
 
 <a class="btn" href="{{ site.baseurl }}/pre-event/coursemology">Details</a>
 
-<br>
 ## Lucky draw
 
 Are you feeling lucky? Participants earn chances to win in regular lucky dips by participating in the various BuildingBloCS activities such as Coursemology, DataCamp, games, workshops and more. The more you participate, the luckier you get! And it is not only about prizes, you learn Computing knowledge and skills while we conduct our lucky draws too!
 
 <a class="btn" href="{{ site.baseurl }}/pre-event/luckydraw">Details</a>
 
-<br>
 ## Entertainment
 
 Afraid you'll be bored by pure coding lingo and activities? (Though our activities are definitely not boring but) Fret not! We'll be having fun stuff along the way to liven up your experience! Look out for coding jokes, fun games and videos, and even mini competitions! Life is fun! 

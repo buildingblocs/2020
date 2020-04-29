@@ -20,16 +20,18 @@ Challenge yourself with Project Euler questions and hone your Python programming
 
 <a class="btn" href="{{ site.baseurl }}/pre-event/coursemology">Details</a>
 
-## Entertainment
-
-Updates will be coming soon :)
-
-
 ## Lucky draw
 
 We will have weekly draws for all the registered participants for BuildingBloCS 2020 on every Friday from 19 Apr till the end of BuildingBloCS 2020 and there is no limit to the number of times you can get lucky!
 
 <a class="btn" href="{{ site.baseurl }}/pre-event/luckydraw">Details</a>
+
+## Entertainment
+
+Afraid you'll be bored by pure coding lingo and activities? (Though our activities are definitely not boring but) Fret not! We'll be having fun stuff along the way to liven up your experience! Look out for coding jokes, fun games and videos, and even mini competitions! Life is fun! 
+
+*An example to get you going: A guy walks into a bar and asks for 1.4 root beers.
+The bartender says "I'll have to charge you extra, that's a root beer float"*
 
 <br>
 # Past events

@@ -5,7 +5,7 @@ layout: default
 
 # Lucky draw
 
-We will have weekly draws for all the registered participants on every Friday from 19 Apr till the end of BuildingBloCS 2020 and there is no limit to the number of times you can get lucky!
+Are you feeling lucky? Participants earn chances to win in regular lucky dips by participating in the various BuildingBloCS activities such as Coursemology, DataCamp, games, workshops and more. The more you participate, the luckier you get! And it is not only about prizes, you learn Computing knowledge and skills while we conduct our lucky draws too!
 
 >Lucky draws will take place every Friday at **12 20 pm**
 
@@ -20,7 +20,7 @@ To ensure the equalness for every participant, we have decided to share the sour
 
 ## Result
 {% for week in site.data.awards %}
-<h3>Week {{ week.week }}</h3>
+<h3>Lucky Draw {{ week.week }}</h3>
 <a class="btn" href="{{ site.baseurl }}/pre-event/luckydraw/video#{{week.week}}">Video</a>
 <table>
     {% for awards in week.awards %}

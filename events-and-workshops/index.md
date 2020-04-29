@@ -97,8 +97,6 @@ We have a host of workshops awaiting you to cater to your varying interests! Ent
 
 Are you feeling lucky? Participants earn chances to win in regular lucky dips by participating in the various BuildingBloCS activities such as Coursemology, DataCamp, games, workshops and more. The more you participate, the luckier you get! And it is not only about prizes, you learn Computing knowledge and skills while we conduct our lucky draws too!<br>
 
-We will have weekly draws for all the registered participants on every Friday from 19 Apr till the end of BuildingBloCS 2020 and there is no limit to the number of times you can get lucky!
-
 ## [More details >>](https://buildingblocs.github.io/2020/pre-event/luckydraw/)  
 
 <br>
@@ -114,5 +112,7 @@ A guy walks into a bar and asks for 1.4 root beers. The bartender says "I'll hav
 > **Those who are actively engaged will get to win attractive lucky draw prizes. :)**  
 
 *One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man.*  
+
+<br><br><br>
 
 BuildingBloCS 2020 is proudly organised by JC and Integrated Programme Computing students in collaboration with MOE and industry partners.

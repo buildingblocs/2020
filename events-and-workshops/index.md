@@ -95,14 +95,19 @@ We have a host of workshops awaiting you to cater to your varying interests! Ent
 <br>
 ## BBCS X Lucky Draw  
 
-*Information coming soon*
+Are you feeling lucky? Participants earn chances to win in regular lucky dips by participating in the various BuildingBloCS activities such as Coursemology, DataCamp, games, workshops and more. The more you participate, the luckier you get! And it is not only about prizes, you learn Computing knowledge and skills while we conduct our lucky draws too!<br>
+
+We will have weekly draws for all the registered participants on every Friday from 19 Apr till the end of BuildingBloCS 2020 and there is no limit to the number of times you can get lucky!
 
 ## [More details >>](https://buildingblocs.github.io/2020/pre-event/luckydraw/)  
 
 <br>
 ## BBCS X Entertainment  
 
-*Information coming soon*
+Afraid you'll be bored by pure coding lingo and activities? (Though our activities are definitely not boring but) Fret not! We'll be having fun stuff along the way to liven up your experience! Look out for coding jokes, fun games and videos, and even mini competitions! Life is fun! 
+
+*An example to get you going:<br>
+A guy walks into a bar and asks for 1.4 root beers. The bartender says "I'll have to charge you extra, that's a root beer float"*
 
 <br><br><br>
 > **All events are free and limited places are available. Students can register at BuildingBloCS.github.io.**<br><br>

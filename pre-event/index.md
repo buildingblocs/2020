@@ -40,7 +40,11 @@ The bartender says "I'll have to charge you extra, that's a root beer float"*
 
 BuildingBloCS 2020 has partnered with **FOSSASIA** - the largest Asia-Pacific Open Source Conference this year. We are excited to announce free technology workshops for the community taking place at the FOSSASIA Summit 2019 evenings on Friday, March 15 and Saturday, March 16 as well as Saturday morning. This event is separate from main conference, but serve as a lead to help students improve their coding proficiency.
 
-Our workshops **workshops** at FOSSASIA include Cybersecurity with Python, Introduction to Socket Programming in Python, Web Applications with Flask in Python, and Circuit Python Workshop.
+The workshops that BuildingBloCS members have conducted are 
+- Cybersecurity with Python
+- Socket Programming with Python
+- Web Applications with Flask with Python
+- SQLite with Python
 
 <a class="btn" href="{{ site.baseurl }}/pre-event/workshop#Fossasia">Details</a>
 

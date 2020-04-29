@@ -124,11 +124,11 @@ if (Input.GetButtonDown('Jump')){
 
 ## Past Python Workshops
 ### AI cum CTF cum Google-Code In
-We had our very first BuildingBloCS workshop on 14 January 2020. It taught 'O'-Level computing students about Artificial Intelligence, Capture The Flag, and promoted Google Code-In 2019. The participants had a lot of fun with the workshop and potentially made new friends with each other! <br>
+We had our very first BuildingBloCS workshop on 14 January 2020. It taught 'O'-Level computing students about Artificial Intelligence, Capture The Flag, and promoted Google Code-In 2019. The participants had a lot of fun with the workshop and potentially made new friends with each other! <br><br>
 <a class="btn" href="https://photos.app.goo.gl/ToVkPLV3zoNLuNqy8">Photos</a>
 
 ### [Circuit Programming with Adafruit Circuit Playground Express](https://youtu.be/DsDeCd6VNj0)
-Over the March school holidays, a group of BuildingBloCS students/alumni from DHS and JPJC came together online to produce a series of Python workshops, and we would like to share them with you and the community. You may view the videos that have been uploaded on Youtube.<br>
+Over the March school holidays, a group of BuildingBloCS students/alumni from DHS and JPJC came together online to produce a series of Python workshops, and we would like to share them with you and the community. You may view the videos that have been uploaded on Youtube.<br><br>
 <a class="btn" href="https://photos.app.goo.gl/HWpBV3mRVwjM55ez5">Photos</a>
 
 The Python workshops covers a large proportion of many of the applications in H2 Computing, as well as many of its real-world applications. You will be led through a series of lecture slides and have a chance to perform some hands-on activities. We hope that these will entice you further to pursue computing in your future. :)

@@ -51,7 +51,7 @@ JavaScript is an extremely popular programming language used primarily by Web
 browsers to create a dynamic and interactive experience for the user. 
 Most of the functions and applications that make the Internet 
 indispensable to modern life are coded in some form of JavaScript. 
-<br>
+<br><br>
 At the end of the course, participants will be able to create a simple <strong>discord bot
 that tells you the time using nodejs</strong> and learn to host it online for free!
 </details><br><br>
@@ -93,7 +93,8 @@ Detection. Participants will also get to embark on a future project!
 
 <details>
 <summary><strong>Introduction to Git</strong></summary><br>
-Open source development is increasingly prevalent in software development, powering many devices that we use daily. Originally developed for the managing the Linux Operating System, Git is an extremely powerful tool for managing computing projects.<br>Participants will learn what Git is and how it is different from GitHub, what programmers can use Git for, learn to perform basic operations (commit, pull etc) using a Git GUI Client, perform simple collaborative operations (merge, forking) and understand the use of pull requests in working on public open source projects
+Open source development is increasingly prevalent in software development, powering many devices that we use daily. Originally developed for the managing the Linux Operating System, Git is an extremely powerful tool for managing computing projects.<br><br>
+Participants will learn what Git is and how it is different from GitHub, what programmers can use Git for, learn to perform basic operations (commit, pull etc) using a Git GUI Client, perform simple collaborative operations (merge, forking) and understand the use of pull requests in working on public open source projects
   
 <br><br><strong>Prerequisites:</strong> A little knowledge of terminal/Command Prompt commands would be helpful but not essential
 </details><br><br>

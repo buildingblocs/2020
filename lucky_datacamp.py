@@ -29,15 +29,18 @@ def read(csv_path):
 def winner(names, winner_num):
     """Choose Winner"""
     winner_list = []
-    used_email = ''
-    if num_participants > winner_num:  # boundary check, participants > prizes
+    used_email = []
+
+    # boundary check, participants > prizes
+    if num_participants > winner_num:
         while len(winner_list) != winner_num:
             index = rng.randint(0, num_participants - 1)
             if not (emails[index] in used_email):  # prevent repeats
-                winner_list += [[names[index], emails[index], schools[index]]]
-                used_email += emails[index]
-
-    else:  # participants < prizes
+                winner_list.append(
+                    [names[index], emails[index], schools[index]])
+                used_email.append(emails[index])
+    # participants < prizes
+    else:
         for index in range(0, num_participants):
             winner_list += [[names[index], emails[index], schools[index]]]
         rng.shuffle(winner_list)  # changes the order of names -> random

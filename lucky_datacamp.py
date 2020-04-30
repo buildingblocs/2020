@@ -1,11 +1,13 @@
 import csv
-import random
 import time
+import secrets
+rng = secrets.SystemRandom()  # Same interface as random module
 
 # Configuration
 winner_num = 3  # Number of winners
 prizes = ['t-shirt', 't-shirt', 't-shirt']  # top-prize first
-csv_path = "lucky_draw2.csv"  # Path of CSV File
+# Path of CSV File
+csv_path = r"lucky_draw2.csv"
 
 
 def read(csv_path):
@@ -30,7 +32,7 @@ def winner(names, winner_num):
     used_email = ''
     if num_participants > winner_num:  # boundary check, participants > prizes
         while len(winner_list) != winner_num:
-            index = random.randint(0, num_participants-1)
+            index = rng.randint(0, num_participants - 1)
             if not (emails[index] in used_email):  # prevent repeats
                 winner_list += [[names[index], emails[index], schools[index]]]
                 used_email += emails[index]
@@ -38,7 +40,7 @@ def winner(names, winner_num):
     else:  # participants < prizes
         for index in range(0, num_participants):
             winner_list += [[names[index], emails[index], schools[index]]]
-        random.shuffle(winner_list)  # changes the order of names -> random
+        rng.shuffle(winner_list)  # changes the order of names -> random
     return winner_list
 
 
@@ -53,7 +55,6 @@ def display(winner_list, prizes):
         # time.sleep(2) #automatic
 
 
-# main
 (names, emails, schools, num_participants) = read(
     csv_path)  # reads file and unpack tuple
 winner_list = winner(names, winner_num)  # returns winner list

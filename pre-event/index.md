@@ -10,6 +10,20 @@ This year, BuildingBloCS is going ONLINE! We would like to invite all Computing 
 
 <a class="btn" href="{{ site.baseurl }}/events-and-workshops">Details</a>
 
+## Workshops
+
+Enter the realm of cyber-defenders by taking on a hands-on approach to cybersecurity, or learn how to use SQLite/NoSQL/HTML/CSS/Flask to enrich your web/mobile applications! If you are looking to refresh your programming knowledge/thinking, do drop by the Intro to Python Workshop!
+
+**Upcoming workshops:**
+
+6 May: Intro to Python<br>
+9 May: HTML/CSS and Intro to SQL
+10 May: Intro to Javascript
+
+and more...
+
+<a class="btn" href="{{ site.baseurl }}/pre-event/workshop">Details</a>
+
 ## DataCamp Account Sign-up
 If you are keen to learn about data science and would like to request for a full access DataCamp subscription, you can do so by requesting for a full access DataCamp subscription (valid til mid Sep 2020). Do note that accounts are limited.
 

@@ -17,7 +17,7 @@ Enter the realm of cyber-defenders by taking on a hands-on approach to cybersecu
 **Upcoming workshops:**
 
 6 May: Intro to Python<br>
-9 May: HTML/CSS and Intro to SQL
+9 May: HTML/CSS and Intro to SQL<br>
 10 May: Intro to Javascript
 
 and more...

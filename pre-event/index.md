@@ -2,48 +2,71 @@
 layout: default
 ---
 # On-going
-## Entertainment
+## BuildingBloCS 2020
 
-Updates will be coming soon :)
+Invitation to participate in BuildingBloCS 2020, Singapore’s largest for students by students Computing education outreach programme.
 
+This year, BuildingBloCS is going ONLINE! We would like to invite all Computing students and students interested in Computing to join us for two exciting half days of fun, learning and friendship.
 
-## Lucky draw
+<a class="btn" href="{{ site.baseurl }}/events-and-workshops">Details</a>
 
-This year, we will have weekly lucky draws on every Fri from 17 Apr and your chances accumulate till 5 Jun i.e. a total of 8 lucky draws, and there is no limit to the number of times you can get lucky!
+## Workshops
 
-<a class="btn" href="{{ site.baseurl }}/pre-event/luckydraw">Details</a>
+Enter the realm of cyber-defenders by taking on a hands-on approach to cybersecurity, or learn how to use SQLite/NoSQL/HTML/CSS/Flask to enrich your web/mobile applications! If you are looking to refresh your programming knowledge/thinking, do drop by the Intro to Python Workshop!
 
-## DataCamp Outreach Workshop
-Data science and artificial intelligence have become hot topics ubiquitous in almost all industries such as business, education, healthcare, security, etc. The list never ends!
+**Upcoming workshops:**
 
-DataCamp is a platform that allows you to learn about data science, machine learning, etc. It comes in courses 
-conducted by industry experts with bite-size exercises accompanied by clear instructional videos. Users can learn data analytics and machine learning from the comfort of their browser, at their own pace, and tailored to their needs and expertise, and even earn industry certification!
+6 May: Intro to Python<br>
+9 May: HTML/CSS and Intro to SQL<br>
+10 May: Intro to Javascript
 
-Join our following outreach workshop on **Wednesday 15th April 2020 from 8 to 830 pm**. We will share more about DataCamp and answer any questions you may have.
+and more...
 
-There will be lucky draw prizes for participants who attend this outreach workshop. :) SIGN UP EARLIER TO STAND HIGHER CHANCES TO WIN! 
+<a class="btn" href="{{ site.baseurl }}/pre-event/workshop">Details</a>
 
-Please join the BuildingBloCS 2020 Discord at <a href="https://discord.gg/hfRDun5">https://discord.gg/hfRDun5</a>
-**Important** When you join, please indicate your name and school (for security reasons+). We will not be able to accept people whose identity we cannot verify.
+## DataCamp Account Sign-up
+If you are keen to learn about data science and would like to request for a full access DataCamp subscription, you can do so by requesting for a full access DataCamp subscription (valid til mid Sep 2020). Do note that accounts are limited.
 
-So sign up below! For inquires, feel free to email <a href="mailto:chow.kianfong.ace@dhs.sg">chow.kianfong.ace@dhs.sg</a>
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc6DY1-z4F2V1eXyCe0cEtRaonbdcp4-oQKjBt4mOik944MnA/viewform?embedded=true" width="640" height="1462" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<a class="btn" href="http://tinyurl.com/bbcs20datacamp">Details</a>
 
 ## Coursemology
 Challenge yourself with Project Euler questions and hone your Python programming skills and mathematical knowledge. You will learn how to create different kinds of visualizations for different kinds of data and also make use of cool data science tools to start your own analyses. Join our BBCS Coursemology and start your journey!
 
-<a class="btn" href="{{ site.baseurl }}/pre-event/Coursemology">Details</a>
+<a class="btn" href="{{ site.baseurl }}/pre-event/coursemology">Details</a>
 
+## Lucky draw
+
+Are you feeling lucky? Participants earn chances to win in regular lucky dips by participating in the various BuildingBloCS activities such as Coursemology, DataCamp, games, workshops and more. The more you participate, the luckier you get! And it is not only about prizes, you learn Computing knowledge and skills while we conduct our lucky draws too!
+
+<a class="btn" href="{{ site.baseurl }}/pre-event/luckydraw">Details</a>
+
+## Entertainment
+
+Afraid you'll be bored by pure coding lingo and activities? (Though our activities are definitely not boring but) Fret not! We'll be having fun stuff along the way to liven up your experience! Look out for coding jokes, fun games and videos, and even mini competitions! Life is fun! 
+
+*An example to get you going: A guy walks into a bar and asks for 1.4 root beers.
+The bartender says "I'll have to charge you extra, that's a root beer float"*
+
+<br>
 # Past events
 
 ## Workshops at FOSSASIA
 
 BuildingBloCS 2020 has partnered with **FOSSASIA** - the largest Asia-Pacific Open Source Conference this year. We are excited to announce free technology workshops for the community taking place at the FOSSASIA Summit 2019 evenings on Friday, March 15 and Saturday, March 16 as well as Saturday morning. This event is separate from main conference, but serve as a lead to help students improve their coding proficiency.
 
-Our workshops **workshops** at FOSSASIA include Cybersecurity with Python, Introduction to Socket Programming in Python, Web Applications with Flask in Python, and Circuit Python Workshop.
+The workshops that BuildingBloCS members have conducted are 
+- Cybersecurity with Python
+- Socket Programming with Python
+- Web Applications with Flask with Python
+- SQLite with Python
 
 <a class="btn" href="{{ site.baseurl }}/pre-event/workshop#Fossasia">Details</a>
 
+<br>
 
+## DataCamp Outreach Workshop
+Data science and artificial intelligence have become hot topics ubiquitous in almost all industries such as business, education, healthcare, security, etc. The list never ends! 
 
+Held on the 15th April 2020, participants had the opportunity to learn about these topics through DataCamp.
+
+[DataCamp](https://www.datacamp.com/) is a platform that allows you to learn about data science, machine learning, etc. It comes in courses conducted by industry experts with bite-size exercises accompanied by clear instructional videos. Users can learn data analytics and machine learning from the comfort of their browser, at their own pace, and tailored to their needs and expertise, and even earn industry certification!

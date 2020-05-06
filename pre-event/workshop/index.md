@@ -6,7 +6,7 @@ layout: default
 
 Enter the realm of cyber-defenders by taking on a hands-on approach to cybersecurity, or learn how to use SQLite/NoSQL/HTML/CSS/Flask to enrich your web/mobile applications! If you are looking to refresh your programming knowledge/thinking, do drop by the Intro to Python Workshop! Aspiring game developers, you’ll be glad to know that Intro to Unity Workshop awaits you while those eager to enhance your project workflow should partake in the Intro to Git session. Do look at the various workshops below!
 
-<br><a class="btn" href="https://www.youtube.com/channel/UCWQmrxGbwU4jFBCJf7rPoFQ">Building BloCS Youtube</a>
+<br><a class="btn" href="https://www.youtube.com/channel/UCWQmrxGbwU4jFBCJf7rPoFQ">BuildingBloCS Youtube</a>
 <br><i>Video Links will be updated after the workshops, so stay tuned!</i><br><br>
 
 <div>
@@ -14,8 +14,8 @@ Enter the realm of cyber-defenders by taking on a hands-on approach to cybersecu
 <summary><strong>Introduction to Python🐍 (Completed)</strong></summary><br>
 
 By the end of the workshop, participants would learn 
-- the basics of python
-- If statements, lists, loops
+- the basics of python<br>
+- If statements, lists, loops<br>
 - create some simple programmes, (e.g. mark to grade converter/calculator)
 
 <br><br><strong>Prerequisites:</strong> Nothing much other than a desire to learn!<br><br>

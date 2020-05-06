@@ -19,10 +19,11 @@ By the end of the workshop, participants would learn
 - create some simple programmes, (e.g. mark to grade converter/calculator)
 
 <br><br><strong>Prerequisites:</strong> Nothing much other than a desire to learn!
-</details>
+
 
 <a class="btn" href="https://youtu.be/v6thpmA7w-o">View Video</a><br><br>
-</div>
+</details>
+
 <br><details><summary><strong>Introduction to Web Development 🌐</strong></summary><br>
 <img src="https://yogendra.me/2017/07/20/migration-mania/html-js-css.png" style="width:130px;">
 <br><strong>Learning to build a efficient web application quickly is increasingly important. This workshop (and more) will equip you with the skills and tools to build your own web application. Here are some of the tools you will learn!</strong><br><br>Flask is used as a web-framework. This will form the basis for the web-application.<br><br>Participants will also learn about the basics of HTML (Markup Language for the Web) and CSS (Casacading Style Sheets for nice designs), along with other frameworks to improve their website's user interface and experience.<br><br>

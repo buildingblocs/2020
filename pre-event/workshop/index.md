@@ -112,7 +112,7 @@ if (Input.GetButtonDown('Jump')){
 </pre>
 
 </details><br>
-</div>
+</div><br><br>
 
 ## Past Python Workshops
 ### AI cum CTF cum Google-Code In

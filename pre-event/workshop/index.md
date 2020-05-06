@@ -13,9 +13,9 @@ Enter the realm of cyber-defenders by taking on a hands-on approach to cybersecu
 <details>
 <summary><strong>Introduction to Python🐍 (Completed)</strong></summary><br>
 
-By the end of the workshop, participants would learn  <br />
-- The basics of python  <br />
-- If statements, lists, loops  <br />
+By the end of the workshop, participants would learn  <br /><br />
+- The basics of python  <br /><br />
+- If statements, lists, loops  <br /><br />
 - Create some simple programmes (e.g. mark to grade converter/calculator)
 
 <br><br><strong>Prerequisites:</strong> Nothing much other than a desire to learn!<br><br>

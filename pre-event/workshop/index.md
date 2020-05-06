@@ -19,9 +19,6 @@ By the end of the workshop, participants would learn  <br /><br />
   <li>If statements, lists, loops</li>
   <li>Create some simple programs (e.g. mark to grade converter/calculator) </li>
 </ul>
-- The basics of python  <br /><br />
-- If statements, lists, loops  <br /><br />
-- Create some simple programs (e.g. mark to grade converter/calculator)
 
 <br><br><strong>Prerequisites:</strong> Nothing much other than a desire to learn!<br><br>
 

@@ -23,12 +23,17 @@ To ensure the equalness for every participant, we have decided to share the sour
 <h3>Lucky Draw {{ week.week }}</h3>
 <!--<a class="btn" href="{{ site.baseurl }}/pre-event/luckydraw/video#{{week.week}}">Video</a>-->
 <table>
-    {% for awards in week.awards %}
-    <tr>
-        <td width="50%">{{ awards.prize }}</td>
-        <td width="50%">{{ awards.winner }}</td>
-    </tr>
-    {% endfor %}
+    {% if week.awards[0].winner.size == 0 %}
+        <h5>The lucky draw has not been conducted yet!</h5>
+        >You could be the next one. [Sign up](https://buildingblocs.github.io/2020/register/) now.
+    {% else %}
+        {% for awards in week.awards %}
+            <tr>
+                <td width="50%">{{ awards.prize }}</td>
+                <td width="50%">{{ awards.winner }}</td>
+            </tr>
+        {% endfor %}
+    {% endif %}
 </table>
 {% endfor %}
 

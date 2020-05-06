@@ -13,7 +13,7 @@ Enter the realm of cyber-defenders by taking on a hands-on approach to cybersecu
 <details>
 <summary><strong>Introduction to Python🐍 (Completed)</strong></summary><br>
 
-By the end of the workshop, participants would learn  <br /><br />
+By the end of the workshop, participants would learn  <br />
 <ul>
   <li>The basics of python</li>
   <li>If statements, lists, loops</li>

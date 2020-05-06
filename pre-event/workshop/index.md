@@ -11,7 +11,7 @@ Enter the realm of cyber-defenders by taking on a hands-on approach to cybersecu
 
 <div>
 <details>
-<summary><strong>Introduction to Python🐍</strong></summary><br>
+<summary><strong>Introduction to Python🐍 (Completed)</strong></summary><br>
 
 By the end of the workshop, participants would learn 
 - the basics of python
@@ -19,7 +19,9 @@ By the end of the workshop, participants would learn
 - create some simple programmes, (e.g. mark to grade converter/calculator)
 
 <br><br><strong>Prerequisites:</strong> Nothing much other than a desire to learn!
-</details><br><br>
+</details>
+
+<a class="btn" href="https://youtu.be/v6thpmA7w-o">View Video</a><br><br>
 
 <br><details><summary><strong>Introduction to Web Development 🌐</strong></summary><br>
 <img src="https://yogendra.me/2017/07/20/migration-mania/html-js-css.png" style="width:130px;">

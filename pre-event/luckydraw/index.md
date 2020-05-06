@@ -7,7 +7,7 @@ layout: default
 
 Are you feeling lucky? Participants earn chances to win in regular lucky dips by participating in the various BuildingBloCS activities such as Coursemology, DataCamp, games, workshops and more. The more you participate, the luckier you get! And it is not only about prizes, you learn Computing knowledge and skills while we conduct our lucky draws too!
 
-<!-->Lucky draws will take place every Friday at **12 20 pm**-->
+>Lucky draws will take place after the **workshops**
 
 <!-- Do visit [classdo.com](https://classdo.com) and witness the lucky draw unfold. -->
 

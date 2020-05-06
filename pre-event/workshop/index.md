@@ -45,7 +45,7 @@ Most of the functions and applications that make the Internet
 indispensable to modern life are coded in some form of JavaScript. 
 <br><br>
 At the end of the course, participants will be able to create a simple <strong>discord bot
-that tells you the time using nodejs</strong> and learn to host it online for free!
+that tells you the time using nodejs</strong>
 </details><br><br>
 
 <br><details>

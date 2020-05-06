@@ -9,18 +9,13 @@ Enter the realm of cyber-defenders by taking on a hands-on approach to cybersecu
 <br><a class="btn" href="https://www.youtube.com/channel/UCWQmrxGbwU4jFBCJf7rPoFQ">BuildingBloCS Youtube</a>
 <br><i>Video Links will be updated after the workshops, so stay tuned!</i><br><br>
 
-- The basics of python
-- If statements, lists, loops
-- Create some simple programmes (e.g. mark to grade converter/calculator)
-
 <div>
 <details>
 <summary><strong>Introduction to Python🐍 (Completed)</strong></summary><br>
 
-By the end of the workshop, participants would learn
-
-- The basics of python
-- If statements, lists, loops
+By the end of the workshop, participants would learn  
+- The basics of python  
+- If statements, lists, loops  
 - Create some simple programmes (e.g. mark to grade converter/calculator)
 
 <br><br><strong>Prerequisites:</strong> Nothing much other than a desire to learn!<br><br>

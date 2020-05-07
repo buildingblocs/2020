@@ -13,8 +13,9 @@ We would be posting regular updates through the server and it would be the easie
 
 
 ## Calender of Events (May 2020)
-![image](https://user-images.githubusercontent.com/47784720/81313020-e7c4b800-90b9-11ea-93dc-6196948e2d4c.png)
-
+<div>
+<img src="https://user-images.githubusercontent.com/47784720/81354593-9f7bb900-90fe-11ea-9974-36a208a1a379.png" alt="BBCS Calender" style="max-width:100%;"/>
+</div>
 
 ## Programme schedule:
 **Thu 14 May**  

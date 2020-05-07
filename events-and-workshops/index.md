@@ -11,7 +11,11 @@ This year, BuildingBloCS is going ONLINE! We would like to invite all Computing 
 **We have a Discord server!**  
 We would be posting regular updates through the server and it would be the easiest and quickest way to get the most up-to-date information regarding upcoming BuildingBloCS events and workshops! (Discord link would be sent to you upon signing up)
 
-**Sign up [here]({{ site.baseurl }}/register).**
+## Calender of Events
+<div>
+<br><iframe src="https://calendar.google.com/calendar/embed?height=400&amp;wkst=1&amp;bgcolor=%23D50000&amp;ctz=Asia%2FSingapore&amp;src=YnVpbGRpbmdibG9jczE3QGdtYWlsLmNvbQ&amp;src=YWRkcmVzc2Jvb2sjY29udGFjdHNAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&amp;src=ZW4uc2luZ2Fwb3JlI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%23039BE5&amp;color=%2333B679&amp;color=%230B8043&amp;showTitle=1&amp;showNav=0&amp;showDate=1&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0" style="border-width:0" width="800" height="400" frameborder="0" scrolling="no"></iframe><br>
+</div>
+
 <br><br>
 
 ## Programme schedule:
@@ -35,6 +39,8 @@ We would be posting regular updates through the server and it would be the easie
 1110 - 1140 Lightning Workshops X Unique Applications of Computing  
 1140 - 1150 Day 2 Closing  
 1150 - 1200 Lucky draw and entertainment and photo-taking  
+
+> **Sign up [here]({{ site.baseurl }}/register).**
 
 <div>
 <details>

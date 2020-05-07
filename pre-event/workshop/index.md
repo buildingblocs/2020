@@ -70,7 +70,7 @@ In this course, we will be embarking on a Capture-the-Flag style competition whe
 
 <br><details>
 <summary><strong>Introduction to Open Computer Vision with Python 📷 (17 May & 23 May)</strong></summary><br>
-<img src="https://user-images.githubusercontent.com/47784720/80275797-349dab80-8716-11ea-8b11-ce656342ae73.png" alt="EdgeDunmanHigh" width="600"/>
+<img src="https://user-images.githubusercontent.com/47784720/80275797-349dab80-8716-11ea-8b11-ce656342ae73.png" alt="EdgeDunmanHigh" style="max-width:90%;"/>
 <br><strong>Part 1</strong><br>
 Open CV is a powerful library used to analyse images and videos! Equip 
 youselves with the knowledge about the various Open CV features. In Part 1,

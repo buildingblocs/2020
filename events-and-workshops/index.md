@@ -11,12 +11,10 @@ This year, BuildingBloCS is going ONLINE! We would like to invite all Computing 
 **We have a Discord server!**  
 We would be posting regular updates through the server and it would be the easiest and quickest way to get the most up-to-date information regarding upcoming BuildingBloCS events and workshops! (Discord link would be sent to you upon signing up)
 
-## Calender of Events
-<div>
-<br><iframe src="https://calendar.google.com/calendar/embed?height=400&amp;wkst=1&amp;bgcolor=%23D50000&amp;ctz=Asia%2FSingapore&amp;src=YnVpbGRpbmdibG9jczE3QGdtYWlsLmNvbQ&amp;src=YWRkcmVzc2Jvb2sjY29udGFjdHNAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&amp;src=ZW4uc2luZ2Fwb3JlI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%23039BE5&amp;color=%2333B679&amp;color=%230B8043&amp;showTitle=1&amp;showNav=0&amp;showDate=1&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0" style="border-width:0" width="800" height="400" frameborder="0" scrolling="no"></iframe><br>
-</div>
 
-<br><br>
+## Calender of Events (May 2020)
+![image](https://user-images.githubusercontent.com/47784720/81313020-e7c4b800-90b9-11ea-93dc-6196948e2d4c.png)
+
 
 ## Programme schedule:
 **Thu 14 May**  

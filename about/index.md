@@ -27,4 +27,4 @@ Details and instructions of the fringe games will be released on the day itself 
 
 <a class="btn" href="https://photos.app.goo.gl/cntLndL2gY9cu0jK2">View Album</a>
 -->
-## The details for the main event has been confirmed! Head over <a href="/events-and-workshops/">here</a> to find out more!
+## The details for the main event has been confirmed! Head over <a href="/2020/events-and-workshops/">here</a> to find out more!

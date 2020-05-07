@@ -11,8 +11,10 @@ This year, BuildingBloCS is going ONLINE! We would like to invite all Computing 
 **We have a Discord server!**  
 We would be posting regular updates through the server and it would be the easiest and quickest way to get the most up-to-date information regarding upcoming BuildingBloCS events and workshops! (Discord link would be sent to you upon signing up)
 
-**Sign up [here]({{ site.baseurl }}/register).**
-<br><br>
+
+## Calender of Events (May 2020)
+![image](https://user-images.githubusercontent.com/47784720/81313020-e7c4b800-90b9-11ea-93dc-6196948e2d4c.png)
+
 
 ## Programme schedule:
 **Thu 14 May**  
@@ -35,6 +37,8 @@ We would be posting regular updates through the server and it would be the easie
 1110 - 1140 Lightning Workshops X Unique Applications of Computing  
 1140 - 1150 Day 2 Closing  
 1150 - 1200 Lucky draw and entertainment and photo-taking  
+
+> **Sign up [here]({{ site.baseurl }}/register).**
 
 <div>
 <details>

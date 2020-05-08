@@ -5,7 +5,7 @@ published: true
 
 > ## Invitation to participate in BuildingBloCS 2020, Singapore's largest for students by students Computing education outreach programme.  
 
-<br><br>
+<br>
 This year, BuildingBloCS is going ONLINE! We would like to invite all Computing students and students interested in Computing to join us for two exciting half days of fun, learning and friendship.  
 
 **We have a Discord server!**  

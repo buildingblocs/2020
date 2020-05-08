@@ -8,7 +8,7 @@ Further hone your Python programming skills and computational thinking with high
 
 # 2020 Coursemology has begun!
 
-[Sign up now &raquo;](https://forms.gle/ZDwHbLYXCimb39Dm8)
+## [Sign up now &raquo;](https://forms.gle/ZDwHbLYXCimb39Dm8)
 
 # 2019 Coursemology Results
 

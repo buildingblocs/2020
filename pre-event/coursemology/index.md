@@ -4,10 +4,8 @@ layout: default
 
 # Welcome to Coursemology
 
-Further hone your Python programming skills and computational thinking with highly interactive coding problems! You will learn how to approach real-world problems in a systematic manner, applying mathematical concepts in unique and interesting ways.
-<br>
-You will also create different kinds of visualizations for different kinds of data, and also make use of cool data science tools to start your own analyses. Also stand chances to win attractive prizes with your participation!
-<br>
+Further hone your Python programming skills and computational thinking with highly interactive coding problems! You will learn how to approach real-world problems in a systematic manner, applying mathematical concepts in unique and interesting ways.<br>
+You will also create different kinds of visualizations for different kinds of data, and also make use of cool data science tools to start your own analyses. Also stand chances to win attractive prizes with your participation!<br>
 *(Upon registration, participants will receive an invitation to the course via email.)*
 
 # 2020 Coursemology has begun!

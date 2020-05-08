@@ -24,6 +24,18 @@ and more...
 
 <a class="btn" href="{{ site.baseurl }}/pre-event/workshop">Details</a>
 
+## Lightning Labs
+
+2020 is an exciting year and BuildingBloCS 2020 is trying out a new format of learning. This year, we have a new segment call Lightning Labs (previously called Lightning Workshops), it is a segment where YOU (and your friends) can:
+1. showcase your projects (computing related ofc :slight_smile:  but doesnt need to be finished products, products in development or prototypes would work too :partying_face: )
+2. conduct a workshop (it can be about anything related to tech!!! eg: competitive programming, socket programming, image manipulation, video effects, etc!!)
+3. views/opinions on the computing community in the form of interactive debates on issues such as for eg: "is javascript too flexible such that it becomes too hard to learn?" 
+4. come up with your own computing/tech related short lab!!! 
+
+**NOTE: MAX PER TEAM: 3 PERSON**
+
+<a class="btn" href="https://tinyurl.com/bbcs20lightninglabs">Sign Up</a>
+
 ## DataCamp Account Sign-up
 If you are keen to learn about data science and would like to request for a full access DataCamp subscription, you can do so by requesting for a full access DataCamp subscription (valid til mid Sep 2020). Do note that accounts are limited.
 
@@ -70,3 +82,12 @@ Data science and artificial intelligence have become hot topics ubiquitous in al
 Held on the 15th April 2020, participants had the opportunity to learn about these topics through DataCamp.
 
 [DataCamp](https://www.datacamp.com/) is a platform that allows you to learn about data science, machine learning, etc. It comes in courses conducted by industry experts with bite-size exercises accompanied by clear instructional videos. Users can learn data analytics and machine learning from the comfort of their browser, at their own pace, and tailored to their needs and expertise, and even earn industry certification!
+
+<br>
+
+## Vesak Day Competition
+
+We are excited to launch a special BuildingBloCS 2020 competition series to promote awareness and appreciation of how Computing is connected to our daily lives and the world around us, starting with the appreciation of culture. It will be a secular competition with the objective of connecting festivities to Computing. We will be starting this competition off with a public holiday / festival Vesak Day on 7 May 2020!
+
+<a class="btn" href="https://tinyurl.com/bbcs20compvesaksubmit">Details</a>
+

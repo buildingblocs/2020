@@ -27,10 +27,10 @@ and more...
 ## Lightning Labs
 
 2020 is an exciting year and BuildingBloCS 2020 is trying out a new format of learning. This year, we have a new segment call Lightning Labs (previously called Lightning Workshops), it is a segment where YOU (and your friends) can:
-1. showcase your projects (computing related ofc :slight_smile:  but doesnt need to be finished products, products in development or prototypes would work too :partying_face: )
-2. conduct a workshop (it can be about anything related to tech!!! eg: competitive programming, socket programming, image manipulation, video effects, etc!!)
-3. views/opinions on the computing community in the form of interactive debates on issues such as for eg: "is javascript too flexible such that it becomes too hard to learn?" 
-4. come up with your own computing/tech related short lab!!! 
+1. Showcase your projects (computing related ofc :slight_smile:  but doesnt need to be finished products, products in development or prototypes would work too)
+2. Conduct a workshop (it can be about anything related to tech!!! eg: competitive programming, socket programming, image manipulation, video effects, etc!!)
+3. Views/opinions on the computing community in the form of interactive debates on issues such as: "is javascript too flexible such that it becomes too hard to learn?" 
+4. Come up with your own computing/tech related short lab!!! 
 
 **NOTE: MAX PER TEAM: 3 PERSON**
 

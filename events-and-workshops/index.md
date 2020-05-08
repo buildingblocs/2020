@@ -53,6 +53,7 @@ We would be posting regular updates through the server and it would be the easie
 Participate in an Amazing Race style online competition with multiple stages and tasks based on computing related topics. Participants will be working in groups to tackle a variety of programming problems, each relating to a H2 Computing topic or BBCS workshop. At the end of each stage, participants will play a little scavenger hunt to look for the hidden password which will eventually unlock the final puzzle. Members will have to work together to overcome these unique programming tasks.
 </details>
 </div>
+<br>
 
 > **Sign up [here]({{ site.baseurl }}/register).**
 

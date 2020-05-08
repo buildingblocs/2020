@@ -20,7 +20,7 @@ We would be posting regular updates through the server and it would be the easie
 ## Programme schedule:
 **Thu 14 May**  
 0900 - 0910 Day 1 Opening and entertainment  
-0910 - 0930 Talk by GovTech  
+0910 - 0930 Talk by Whizz Mobility
 0930 - 1000 Icebreaking @ Skribbl.io  
 0950 - 1000 Break Loop  
 1000 - 1110 Battle it out @ CodeCombat<sup>[1]</sup>  

@@ -27,7 +27,7 @@ Anytime from now until **2359 Mon 25 May**, submit your entries at [https://tiny
 
 <a class="btn" href="https://tinyurl.com/bbcs20compharirayapuasa">Details</a>
 
-<br><br></details>
+<br></details>
 
 <!----->
 
@@ -40,7 +40,7 @@ Anytime from now until **2359 Sun 10 May**, submit at [https://tinyurl.com/bbcs2
 
 <a class="btn" href="https://tinyurl.com/bbcs20compmothers">Details</a>
 
-<br><br></details>
+<br></details>
 
 <!------>
 <details>
@@ -51,5 +51,5 @@ We have a winner for our first BuildingBloCS 2020 competition series - Vesak Day
 Congrats to Mr Chen Jing De Isaac of Dunman High School who came out with an interesting competitive programming task on lantern ignition, one of Vesak Day's festival activities. He also contributed a dynamic programming solution using the computer language Go. You can access his entry at [https://github.com/Iscaraca/codetask-Go/tree/master/vesakday](https://github.com/Iscaraca/codetask-Go/tree/master/vesakday) <br />
 
 Mr Chen has won for himself a $15 Grab food voucher (already sent to his email address) for him to get his bbt fix instantly!
-<br><br></details>
+<br></details>
 </div>

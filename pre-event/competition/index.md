@@ -21,14 +21,15 @@ The most creative Computing entries will win Grab food vouchers (you can use it 
 <details>
 <summary><strong>Hari Raya Puasa Edition (Ongoing)</strong></summary><br>
 
-We are excited (again) to announce BuildingBloCS 2020 competition series Hari Raya Puasa edition! Hari Raya Puasa this year falls on Sun 24 May 2020 and thus Mon 25 May 2020 is a public holiday in lieu! <br />
+We are excited (again) to announce BuildingBloCS 2020 competition series Hari Raya Puasa edition! Hari Raya Puasa this year falls on Sun 24 May 2020 and thus Mon 25 May 2020 is a public holiday in lieu!<br><br>
 
-Anytime from now until **2359 Mon 25 May**, submit your entries at [https://tinyurl.com/bbcs20compharirayapuasasubmit](https://tinyurl.com/bbcs20compharirayapuasasubmit) <br />
+Anytime from now until <strong>2359 Mon 25 May</strong>, submit your entries <a href="https://tinyurl.com/bbcs20compharirayapuasasubmit">here.</a><br><br>
 
 <a class="btn" href="https://tinyurl.com/bbcs20compharirayapuasa">Details</a>
 
-<br></details>
+</details>
 
+<br><br>
 <!----->
 
 <details>
@@ -36,19 +37,21 @@ Anytime from now until **2359 Mon 25 May**, submit your entries at [https://tiny
 
 We are excited (again again) to announce BuildingBloCS 2020 competition series Mother’s Day edition! Mother’s Day happens every second Sunday in May and this year it is on Sun 10 May 2020! Head over to [https://en.wikipedia.org/wiki/Mother%27s_Day](https://en.wikipedia.org/wiki/Mother%27s_Day) to find out more about its origin. <br />
 
-Anytime from now until **2359 Sun 10 May**, submit at [https://tinyurl.com/bbcs20compmotherssubmit](https://tinyurl.com/bbcs20compmotherssubmit). Remember to allow public view access if you are sharing a Google Drive link. <br />
+Anytime from now until **2359 Sun 10 May**, submit <a href="https://tinyurl.com/bbcs20compmotherssubmit">here.</a> Remember to allow public view access if you are sharing a Google Drive link.<br>
 
 <a class="btn" href="https://tinyurl.com/bbcs20compmothers">Details</a>
 
-<br></details>
+</details>
 
-<!------>
+<br><br>
+<!----->
+
 <details>
 <summary><strong>Vesak Day Edition (Completed)</strong></summary><br>
 
-We have a winner for our first BuildingBloCS 2020 competition series - Vesak Day edition! <br />
+We have a winner for our first BuildingBloCS 2020 competition series - Vesak Day edition! <br>
 
-Congrats to Mr Chen Jing De Isaac of Dunman High School who came out with an interesting competitive programming task on lantern ignition, one of Vesak Day's festival activities. He also contributed a dynamic programming solution using the computer language Go. You can access his entry at [https://github.com/Iscaraca/codetask-Go/tree/master/vesakday](https://github.com/Iscaraca/codetask-Go/tree/master/vesakday) <br />
+Congrats to <strong>Mr Chen Jing De Isaac</strong> of Dunman High School who came out with an interesting competitive programming task on lantern ignition, one of Vesak Day's festival activities. He also contributed a dynamic programming solution using the computer language Go. You can access his entry <a href="https://github.com/Iscaraca/codetask-Go/tree/master/vesakday">here.</a><br><br>
 
 Mr Chen has won for himself a $15 Grab food voucher (already sent to his email address) for him to get his bbt fix instantly!
 <br></details>

@@ -56,7 +56,7 @@ Remember to allow public view access if you are sharing a Google Drive link.<br>
 
 We have a winner for our first BuildingBloCS 2020 competition series - Vesak Day edition! <br><br>
 
-Congrats to <strong>Mr Chen Jing De Isaac</strong> of Dunman High School who came out with an interesting competitive programming task on lantern ignition, one of Vesak Day's festival activities. He also contributed a dynamic programming solution using the computer language Go.
+Congrats to <strong>Mr Chen Jing De Isaac</strong> of Dunman High School who came out with an interesting competitive programming task on lantern ignition, one of Vesak Day's festival activities. He also contributed a dynamic programming solution using the computer language Go.<br><br>
 
 You can access his entry <strong><a href="https://github.com/Iscaraca/codetask-Go/tree/master/vesakday">here.</a></strong><br><br>
 

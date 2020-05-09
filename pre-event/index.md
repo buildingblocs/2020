@@ -36,6 +36,12 @@ and more...
 
 <a class="btn" href="https://tinyurl.com/bbcs20lightninglabs">Sign Up</a>
 
+## BuildingBloCS Competition Series
+
+We are excited to launch a special BuildingBloCS 2020 competition series to promote awareness and appreciation of how Computing is connected to our daily lives and the world around us, starting with the appreciation of culture. It will be a secular competition with the objective of connecting festivities to Computing.
+
+<a class="btn" href="{{ site.baseurl }}/pre-event/competition">Details</a>
+
 ## DataCamp Account Sign-up
 If you are keen to learn about data science and would like to request for a full access DataCamp subscription, you can do so by requesting for a full access DataCamp subscription (valid til mid Sep 2020). Do note that accounts are limited.
 
@@ -82,12 +88,3 @@ Data science and artificial intelligence have become hot topics ubiquitous in al
 Held on the 15th April 2020, participants had the opportunity to learn about these topics through DataCamp.
 
 [DataCamp](https://www.datacamp.com/) is a platform that allows you to learn about data science, machine learning, etc. It comes in courses conducted by industry experts with bite-size exercises accompanied by clear instructional videos. Users can learn data analytics and machine learning from the comfort of their browser, at their own pace, and tailored to their needs and expertise, and even earn industry certification!
-
-<br>
-
-## Vesak Day Competition
-
-We are excited to launch a special BuildingBloCS 2020 competition series to promote awareness and appreciation of how Computing is connected to our daily lives and the world around us, starting with the appreciation of culture. It will be a secular competition with the objective of connecting festivities to Computing. We will be starting this competition off with a public holiday / festival Vesak Day on 7 May 2020!
-
-<a class="btn" href="https://tinyurl.com/bbcs20compvesaksubmit">Details</a>
-

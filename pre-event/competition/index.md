@@ -25,7 +25,7 @@ We are excited (again) to announce BuildingBloCS 2020 competition series Hari Ra
 
 Anytime from now until <strong>2359 Mon 25 May</strong>, submit your entries <strong><a href="https://tinyurl.com/bbcs20compharirayapuasasubmit">here.</a></strong><br>
 
-<em>Remember to allow public view access if you are sharing a Google Drive link.</em><br>
+<em>(Remember to allow public view access if you are sharing a Google Drive link.)</em><br>
 
 <a class="btn" href="https://tinyurl.com/bbcs20compharirayapuasa">Details</a>
 
@@ -44,7 +44,7 @@ Head over to <strong><a href="https://en.wikipedia.org/wiki/Mother%27s_Day">Moth
 
 Anytime from now until <strong>2359 Sun 10 May</strong>, submit <strong><a href="https://tinyurl.com/bbcs20compmotherssubmit">here.</a></strong><br>
 
-<em>Remember to allow public view access if you are sharing a Google Drive link.</em><br>
+<em>(Remember to allow public view access if you are sharing a Google Drive link.)</em><br>
 
 <a class="btn" href="https://tinyurl.com/bbcs20compmothers">Details</a>
 

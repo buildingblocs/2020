@@ -23,7 +23,9 @@ The most creative Computing entries will win Grab food vouchers (you can use it 
 
 We are excited (again) to announce BuildingBloCS 2020 competition series Hari Raya Puasa edition! Hari Raya Puasa this year falls on Sun 24 May 2020 and thus Mon 25 May 2020 is a public holiday in lieu!<br><br>
 
-Anytime from now until <strong>2359 Mon 25 May</strong>, submit your entries <strong><a href="https://tinyurl.com/bbcs20compharirayapuasasubmit">here.</a></strong><br><br>
+Anytime from now until <strong>2359 Mon 25 May</strong>, submit your entries <strong><a href="https://tinyurl.com/bbcs20compharirayapuasasubmit">here.</a></strong><br>
+
+<em>Remember to allow public view access if you are sharing a Google Drive link.</em><br>
 
 <a class="btn" href="https://tinyurl.com/bbcs20compharirayapuasa">Details</a>
 
@@ -40,9 +42,9 @@ We are excited (again again) to announce BuildingBloCS 2020 competition series M
 Mother’s Day happens every second Sunday in May and this year it is on Sun 10 May 2020!
 Head over to <strong><a href="https://en.wikipedia.org/wiki/Mother%27s_Day">Mother's Day</a></strong> to find out more about its origin. <br><br>
 
-Anytime from now until <strong>2359 Sun 10 May</strong>, submit <strong><a href="https://tinyurl.com/bbcs20compmotherssubmit">here.</a></strong>
+Anytime from now until <strong>2359 Sun 10 May</strong>, submit <strong><a href="https://tinyurl.com/bbcs20compmotherssubmit">here.</a></strong><br>
 
-Remember to allow public view access if you are sharing a Google Drive link.<br>
+<em>Remember to allow public view access if you are sharing a Google Drive link.</em><br>
 
 <a class="btn" href="https://tinyurl.com/bbcs20compmothers">Details</a>
 

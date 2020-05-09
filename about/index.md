@@ -11,9 +11,6 @@ BuildlingBloCS is a yearlong outreach programme for students, by students! Activ
 ### Changes this year
 Due to the ongoing COVID-19 pandemic, it is illegal to physically hold inter-school workshops and activities. Therefore, most of our workshops and activities will have to be conducted online! On hindsight, this allows for flexibility and allows more people to join because they can do it from home.
 
-### Activities and Programmes
-Head over to this <a href="/2020/events-and-workshops">link</a>link to find out our list of ongoing activities!
-
 <!--
 
 ## Fringe Games
@@ -27,4 +24,4 @@ Details and instructions of the fringe games will be released on the day itself 
 
 <a class="btn" href="https://photos.app.goo.gl/cntLndL2gY9cu0jK2">View Album</a>
 -->
-## More details of main event will be released soon :)
+## The details for the main event has been confirmed! Head over <a href="/2020/events-and-workshops/">here</a> to find out more!

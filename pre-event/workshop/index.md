@@ -55,7 +55,7 @@ that tells you the time using nodejs</strong>
 
 After learning SQL, why not learn NoSQL? NoSQL databases (aka "not only SQL") are non tabular, and store data differently than relational tables (aka SQL). <br> NoSQL databases come in a variety of types based on their data model. The main types are document, key-value, wide-column, and graph. They provide flexible schemas and scale easily with large amounts of data and high user loads.
   
-<br><br><strong>Prerequisites:</strong> Basic Knowledge of Python (Intro to Python Workshop)
+<br><br><strong>Prerequisites:</strong> Basic Knowledge of Python (Intro to Python Workshop), Github account
 </details><br><br>
 
 <br><details>

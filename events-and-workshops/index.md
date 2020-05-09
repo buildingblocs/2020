@@ -5,7 +5,7 @@ published: true
 
 > ## Invitation to participate in BuildingBloCS 2020, Singapore's largest for students by students Computing education outreach programme.  
 
-<br><br>
+<br>
 This year, BuildingBloCS is going ONLINE! We would like to invite all Computing students and students interested in Computing to join us for two exciting half days of fun, learning and friendship.  
 
 **We have a Discord server!**  
@@ -20,7 +20,7 @@ We would be posting regular updates through the server and it would be the easie
 ## Programme schedule:
 **Thu 14 May**  
 0900 - 0910 Day 1 Opening and entertainment  
-0910 - 0930 Talk by GovTech  
+0910 - 0930 Talk by Whizz Mobility  
 0930 - 1000 Icebreaking @ Skribbl.io  
 0950 - 1000 Break Loop  
 1000 - 1110 Battle it out @ CodeCombat<sup>[1]</sup>  
@@ -28,18 +28,17 @@ We would be posting regular updates through the server and it would be the easie
 1140 - 1150 Day 1 Closing  
 1150 - 1200 Lucky draw and entertainment and photo-taking  
 1200 - 1300 Lunch  
-1300 - TBC  Lightning Workshops X Daily Applications of Computing  
+1300 - TBC  Lightning Labs X Daily Applications of Computing  
 
 **Fri 15 May**  
 0900 - 0910 Day 2 Opening and entertainment  
 0910 - 0930 Talk by Google  
 0930 - 1100 BBCS X The Amazing Race<sup>[2]</sup>  
 1100 - 1110 Break Loop  
-1110 - 1140 Lightning Workshops X Unique Applications of Computing  
+1110 - 1140 Lightning Labs X Unique Applications of Computing  
 1140 - 1150 Day 2 Closing  
 1150 - 1200 Lucky draw and entertainment and photo-taking  
 
-> **Sign up [here]({{ site.baseurl }}/register).**
 
 <div>
 <details>
@@ -54,6 +53,9 @@ We would be posting regular updates through the server and it would be the easie
 Participate in an Amazing Race style online competition with multiple stages and tasks based on computing related topics. Participants will be working in groups to tackle a variety of programming problems, each relating to a H2 Computing topic or BBCS workshop. At the end of each stage, participants will play a little scavenger hunt to look for the hidden password which will eventually unlock the final puzzle. Members will have to work together to overcome these unique programming tasks.
 </details>
 </div>
+<br>
+
+> **Sign up [here]({{ site.baseurl }}/register).**
 
 <br>
 **Apart from the conference, there are also other online activities to sign up:**   

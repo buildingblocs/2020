@@ -35,7 +35,7 @@ Participants will explore the concepts of:
 - simple sql queries
 - various sql technologies and their pros and cons 
 
-<br><br><strong>Prerequisites:</strong> Basic Knowledge of Python (Intro to Python Workshop)
+<br><br><strong>Prerequisites:</strong> Basic Knowledge of Python (Intro to Python Workshop)<br><br>
 
 <a class="btn" href="https://youtu.be/e860nw5CemU">View Video of Part 1</a>
 </details><br><br>

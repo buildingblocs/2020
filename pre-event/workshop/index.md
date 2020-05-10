@@ -50,6 +50,8 @@ indispensable to modern life are coded in some form of JavaScript.
 <br><br>
 At the end of the course, participants will be able to create a simple <strong>discord bot
 that tells you the time using nodejs</strong>
+
+<a class="btn" href="https://youtu.be/fsfcamcTUp8">View Video</a>
 </details><br><br>
 
 <br><details>

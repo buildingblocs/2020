@@ -108,7 +108,7 @@ def display(winner_list, prizes, participants, num_participants):
             print(
                 f'In the {count}th place, we have {element[0]} from {element[2]} winning {prizes[count-1]}')
         while True:
-            x = input("Redraw? [Y/N] [YES/NO]: ")
+            x = input("Redraw? [Y/N] [YES/NO] [DEFAULT:N]: ")
             if x.upper() == "Y" or x.upper == "YES":
                 element = redraw(participants, num_participants)
                 if count == 1:
@@ -136,12 +136,13 @@ while True:
         [2]: Draw winner with weighted chances
         [3]: Set CSV file path
         [4]: Read and print weighted current candidates (not random)
-        [5]: Exit
+        [5]: Print Prizes in descending order
+        [6]: Exit
         """
         )
         # Input Sanity Check
         menu_option = int(input("Option: "))
-        if not 1 <= menu_option <= 5:
+        if not 1 <= menu_option <= 6:
             raise Exception("Invalid Option")
 
     except Exception as e:
@@ -174,6 +175,10 @@ while True:
             csv_path)  # reads file and unpack tuple
         names = [element[0] for element in participants]
         pp.pprint(names)
+    elif menu_option == 5:
+        print("The Prizes are: ")
+        pp.pprint(prizes)
     else:
         print("Exiting...")
         exit()
+    input()

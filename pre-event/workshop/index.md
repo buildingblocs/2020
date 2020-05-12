@@ -30,7 +30,7 @@ By the end of the workshop, participants would learn  <br />
 <img src="https://yogendra.me/2017/07/20/migration-mania/html-js-css.png" style="width:130px;">
 <br><strong>Learning to build a efficient web application quickly is increasingly important. This workshop (and more) will equip you with the skills and tools to build your own web application. Here are some of the tools you will learn!</strong><br><br>
   
-Timing for 17 May: 1400-1600<br><br>
+<strong>Timing for 17 May: 1400-1600</strong><br><br>
 
 Flask is used as a web-framework. This will form the basis for the web-application.<br><br>Participants will also learn about the basics of HTML (Markup Language for the Web) and CSS (Casacading Style Sheets for nice designs), along with other frameworks to improve their website's user interface and experience.<br><br>
 SQL forms an important part in our applications, by helping to store a variety of user data!<br>
@@ -61,7 +61,7 @@ that tells you the time using nodejs</strong><br/><br/>
 <br><details>
 <summary><strong>Introduction to noSQL 🗃 (13 May)</strong></summary><br>
 
-Timing: 1700-1900<br><br>
+<strong>Timing: 1700-1900</strong><br><br>
 
 After learning SQL, why not learn NoSQL? NoSQL databases (aka "not only SQL") are non tabular, and store data differently than relational tables (aka SQL). <br>
 NoSQL databases come in a variety of types based on their data model. The main types are document, key-value, wide-column, and graph. They provide flexible schemas and scale easily with large amounts of data and high user loads.
@@ -72,7 +72,7 @@ NoSQL databases come in a variety of types based on their data model. The main t
 <br><details>
 <summary><strong>Introduction to Cybersecurity 💻 (16 May)</strong></summary><br>
 
-Timing: 1000-1200<br><br>
+<strong>Timing: 1000-1200</strong><br><br>
 
 Cyberattacks are increasingly becoming more common, while our reliance on digital systems has increased significantly. A sound understanding of cybersecurity principles would thus go a long way in helping to ensure one stays cyber secure.<br>
 
@@ -101,7 +101,7 @@ Detection. Participants will also get to embark on a future project!
 <br><details>
 <summary><strong>Introduction to Git 🌲 (29 May)</strong></summary><br>
   
-Timing: 1500-1630<br><br>
+<strong>Timing: 1500-1630</strong><br><br>
   
 Open source development is increasingly prevalent in software development, powering many devices that we use daily. Originally developed for the managing the Linux Operating System, Git is an extremely powerful tool for managing computing projects.<br><br>
 Participants will learn what Git is and how it is different from GitHub, what programmers can use Git for, learn to perform basic operations (commit, pull etc) using a Git GUI Client, perform simple collaborative operations (merge, forking) and understand the use of pull requests in working on public open source projects
@@ -112,7 +112,7 @@ Participants will learn what Git is and how it is different from GitHub, what pr
 <br><details>
 <summary><strong>Introduction to Unity 🎮(30 May)</strong></summary><br>
   
-Timing: 1000-1200<br><br>
+<strong>Timing: 1000-1200</strong><br><br>
 
 Participants will be introduced to the the Game Loop, 2D Space, Collision detection, and make a simple game involving moving the player character.
   

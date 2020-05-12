@@ -112,7 +112,7 @@ Participants will learn what Git is and how it is different from GitHub, what pr
 <br><details>
 <summary><strong>Introduction to Unity 🎮(30 May)</strong></summary><br>
   
-Timing: 1000<br><br>
+Timing: 1000-1200<br><br>
 
 Participants will be introduced to the the Game Loop, 2D Space, Collision detection, and make a simple game involving moving the player character.
   

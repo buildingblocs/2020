@@ -37,7 +37,8 @@ Already on its 4th year, BuildingBloCS '20 will be the year of breakthroughs! Th
 ## Event
 [Registration is open! >>]({{ site.baseurl }}/register)
 
-A line up of **games, talks, workshops and winpetition** will be conducted on **{{ site.date }} {{ site.location }}**! Come and join us for this year's BuildingBloCS and together let us all help to build Singapore into a **Smart Nation**! [More&nbsp;details&nbsp;&raquo;]({{ site.baseurl }}/event)
+A line up of **games, talks, workshops and winpetition** will be conducted on **{{ site.date }} {{ site.location }}**! Come and join us for this year's BuildingBloCS and together let us all help to build Singapore into a **Smart Nation**!<br><br>
+[More&nbsp;details&nbsp;&raquo;]({{ site.baseurl }}/event)
 
 <div style="font-size: 1.25em; text-align: center">
   <a class="btn" href="https://photos.app.goo.gl/cntLndL2gY9cu0jK2">View Photos</a>

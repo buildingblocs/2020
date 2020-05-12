@@ -24,7 +24,7 @@ We would be posting regular updates through the server and it would be the easie
 0930 - 1000 Icebreaking @ Skribbl.io  
 0950 - 1000 Break Loop  
 1000 - 1110 Battle it out @ CodeCombat<sup>[1]</sup>  
-1110 - 1140 Baking with Matplotlib (timing to be confirmed)  
+1110 - 1140 Baking with Matplotlib  
 1140 - 1150 Day 1 Closing  
 1150 - 1200 Lucky draw and entertainment and photo-taking  
 1200 - 1300 Lunch  

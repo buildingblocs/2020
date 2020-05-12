@@ -35,11 +35,13 @@ Participants will explore the concepts of:
 - simple sql queries
 - various sql technologies and their pros and cons 
 
-<br><br><strong>Prerequisites:</strong> Basic Knowledge of Python (Intro to Python Workshop)
+<br><br><strong>Prerequisites:</strong> Basic Knowledge of Python (Intro to Python Workshop)<br><br>
+
+<a class="btn" href="https://youtu.be/e860nw5CemU">View Video of Part 1</a>
 </details><br><br>
 
 <br><details>
-<summary><strong>Introduction to Javascript 🏃‍♀️ (10 May)</strong></summary><br>
+<summary><strong>Introduction to Javascript 🏃‍♀️ (Completed)</strong></summary><br>
 
 JavaScript is an extremely popular programming language used primarily by Web 
 browsers to create a dynamic and interactive experience for the user. 
@@ -47,7 +49,9 @@ Most of the functions and applications that make the Internet
 indispensable to modern life are coded in some form of JavaScript. 
 <br><br>
 At the end of the course, participants will be able to create a simple <strong>discord bot
-that tells you the time using nodejs</strong>
+that tells you the time using nodejs</strong><br/><br/>
+
+<a class="btn" href="https://youtu.be/fsfcamcTUp8">View Video</a>
 </details><br><br>
 
 <br><details>

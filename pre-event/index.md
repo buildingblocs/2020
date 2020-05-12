@@ -16,9 +16,9 @@ Enter the realm of cyber-defenders by taking on a hands-on approach to cybersecu
 
 **Upcoming workshops:**
 
-9 May: Intro to Web Dev (Part 1)<br>
-10 May: Intro to Javascript<br>
-13 May: Intro to NoSQL
+13 May: Intro to NoSQL<br>
+16 May: Intro to Cybersecurity<br>
+17 May: Intro to Web Development<br>
 
 and more...
 

@@ -39,7 +39,7 @@ Anytime from now until <strong>2359 Mon 25 May</strong>, submit your entries <st
 
 Congrats to <strong>Mr Leo Qi Yi Joel</strong> of Dunman High School, the winner for our BuildingBloCS 2020 Competition Series - Mother's Day Edition! Mr Leo has submitted an entry where you can send email greetings to express your appreciation to your mum!<br><br>
 
-You can access his entry <strong><a class="btn" href="https://github.com/redarkham/BBCS-X-MothersDay">here.</a></strong><br><br>
+You can access his entry <strong><a href="https://github.com/redarkham/BBCS-X-MothersDay">here.</a></strong><br><br>
 
 Mr Leo has won for himself a $15 Grab food voucher (already sent to his email address) for him to get his bbt fix with his mum!
 <br></details>

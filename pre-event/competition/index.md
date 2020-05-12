@@ -35,7 +35,7 @@ Anytime from now until <strong>2359 Mon 25 May</strong>, submit your entries <st
 <!----->
 
 <details>
-<summary><strong>Mother's Day Edition (Ongoing)</strong></summary><br>
+<summary><strong>Mother's Day Edition (Completed)</strong></summary><br>
 
 We are excited (again again) to announce BuildingBloCS 2020 competition series Mother’s Day edition!<br><br>
 

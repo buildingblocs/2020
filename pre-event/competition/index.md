@@ -37,18 +37,12 @@ Anytime from now until <strong>2359 Mon 25 May</strong>, submit your entries <st
 <details>
 <summary><strong>Mother's Day Edition (Completed)</strong></summary><br>
 
-We are excited (again again) to announce BuildingBloCS 2020 competition series Mother’s Day edition!<br><br>
+Congrats to <strong>Mr Leo Qi Yi Joel</strong> of Dunman High School, the winner for our BuildingBloCS 2020 Competition Series - Mother's Day Edition! Mr Leo has submitted an entry where you can send email greetings to express your appreciation to your mum!<br><br>
 
-Mother’s Day happens every second Sunday in May and this year it is on Sun 10 May 2020!
-Head over to <strong><a href="https://en.wikipedia.org/wiki/Mother%27s_Day">Mother's Day</a></strong> to find out more about its origin. <br><br>
+You can access his entry <strong><a class="btn" href="https://github.com/redarkham/BBCS-X-MothersDay">here.</a></strong><br><br>
 
-Anytime from now until <strong>2359 Sun 10 May</strong>, submit <strong><a href="https://tinyurl.com/bbcs20compmotherssubmit">here.</a></strong><br>
-
-<em>(Remember to allow public view access if you are sharing a Google Drive link.)</em><br>
-
-<a class="btn" href="https://tinyurl.com/bbcs20compmothers">Details</a>
-
-</details>
+Mr Leo has won for himself a $15 Grab food voucher (already sent to his email address) for him to get his bbt fix with his mum!
+<br></details>
 
 <br><br>
 <!----->

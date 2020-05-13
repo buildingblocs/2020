@@ -13,7 +13,7 @@ published: true
             {{ site.date }} {{ site.location }} :)
         </p>    
 	<p>
-	    <h2>Registration is now closed. See you there!</h2>
+	    <h2>Registration is now closed. See you online!</h2>
 	</p>
 	
 

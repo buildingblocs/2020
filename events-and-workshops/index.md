@@ -26,7 +26,7 @@ We would be posting regular updates through the server and it would be the easie
 1000 - 1110 Battle it out @ CodeCombat<sup>[1]</sup>  
 1110 - 1140 Baking with Matplotlib  
 1140 - 1150 Day 1 Closing  
-1150 - 1200 Lucky draw and entertainment and photo-taking  
+1150 - 1200 Lucky draw and mass dance and photo-taking  
 1200 - 1300 Lunch  
 1300 - TBC  Lightning Labs X Daily Applications of Computing  
 
@@ -37,7 +37,7 @@ We would be posting regular updates through the server and it would be the easie
 1100 - 1110 Break Loop  
 1110 - 1140 Lightning Labs X Unique Applications of Computing  
 1140 - 1150 Day 2 Closing  
-1150 - 1200 Lucky draw and entertainment and photo-taking  
+1150 - 1200 Lucky draw and mass dance and photo-taking  
 
 
 <div>

@@ -55,7 +55,7 @@ Participate in an Amazing Race style online competition with multiple stages and
 </div>
 <br>
 
-> **Sign up [here]({{ site.baseurl }}/register).**
+> **Sign up is now closed. See you there!**
 
 <br>
 **Apart from the conference, there are also other online activities to sign up:**   

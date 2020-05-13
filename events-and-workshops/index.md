@@ -21,8 +21,8 @@ We would be posting regular updates through the server and it would be the easie
 **Thu 14 May**  
 0900 - 0910 Day 1 Opening and entertainment  
 0910 - 0930 Talk by Whizz Mobility  
-0930 - 1000 Icebreaking  
-0950 - 1000 Break Loop  
+0930 - 0955 Icebreaking  
+0955 - 1000 Break Loop  
 1000 - 1110 Battle it out @ CodeCombat<sup>[1]</sup>  
 1110 - 1140 Baking with Matplotlib  
 1140 - 1150 Day 1 Closing  

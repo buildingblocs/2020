@@ -78,14 +78,24 @@
    
 - week: 7
   awards:
-  - prize:
-    winner:
-  - prize:
-    winner:
-  - prize:
-    winner:
-  - prize:
-    winner:
-  - prize:
-    winner:
+  - prize: 1st Prize - Amazon Echo Spot
+    winner: Reza Aulia from ACSBR
+  - prize: 2nd Prize - Mi TV Box
+    winner: Sebastian Yeo from ZHSS
+  - prize: 3rd Prize - Xiaomi Wireless Blender
+    winner: Chen Leyi from YIJC
+  - prize: 4th Prize - Xiaomi 10000mAh Wireless Power Bank Youth Edition
+    winner: Suan Pin from DHS
    
+- week: 8
+  awards:
+  - prize:
+    winner:
+  - prize:
+    winner:
+  - prize:
+    winner:
+  - prize:
+    winner:
+  - prize:
+    winner:

@@ -26,7 +26,7 @@ To ensure the equalness for every participant, we have decided to share the sour
     {% assign checkWinner = week.awards[0].winner | rstrip %}
     {% if checkWinner.size == 0 %}
         <h5>The lucky draw has not been conducted yet!</h5>
-        <blockquote><p>You could be the next one. <a href="https://buildingblocs.github.io/2020/register/">Sign up</a> now.</p></blockquote>
+        <blockquote><p>You could be the next one. We will see you at our final conference!</p></blockquote>
     {% else %}
         {% for awards in week.awards %}
             <tr>

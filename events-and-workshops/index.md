@@ -28,7 +28,7 @@ We would be posting regular updates through the server and it would be the easie
 1140 - 1150 Day 1 Closing  
 1150 - 1200 Lucky draw and mass dance and photo-taking  
 1200 - 1300 Lunch  
-1300 - TBC  Lightning Labs X Daily Applications of Computing  
+1300 - 1400  Lightning Labs X Daily Applications of Computing  
 
 **Fri 15 May**  
 0900 - 0910 Day 2 Opening and entertainment  

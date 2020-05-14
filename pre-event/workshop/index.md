@@ -59,14 +59,16 @@ that tells you the time using nodejs</strong><br/><br/>
 </details><br><br>
 
 <br><details>
-<summary><strong>Introduction to noSQL 🗃 (13 May)</strong></summary><br>
+<summary><strong>Introduction to NoSQL 🗃 (Completed)</strong></summary><br>
 
 <strong>Timing: 1700-1900</strong><br><br>
 
 After learning SQL, why not learn NoSQL? NoSQL databases (aka "not only SQL") are non tabular, and store data differently than relational tables (aka SQL). <br>
 NoSQL databases come in a variety of types based on their data model. The main types are document, key-value, wide-column, and graph. They provide flexible schemas and scale easily with large amounts of data and high user loads.
   
-<br><br><strong>Prerequisites:</strong> Basic Knowledge of Python (Intro to Python Workshop), Github account
+<br><br><strong>Prerequisites:</strong> Basic Knowledge of Python (Intro to Python Workshop), Github account<br/><br/>
+
+<a class="btn" href="https://www.youtube.com/watch?v=UkuTpApZkrM">View Video</a>
 </details><br><br>
 
 <br><details>

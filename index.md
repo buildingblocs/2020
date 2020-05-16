@@ -13,7 +13,7 @@ published: true
             {{ site.date }} {{ site.location }} :)
         </p>    
 	<p>
-	    <h2>Registration is now closed. See you online!</h2>
+	    <h3>The BuildingBloCS 2020 Conference is over! BuildingBloCS 2020, however is still ongoing!</h3>
 	</p>
 	
 

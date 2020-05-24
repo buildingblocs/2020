@@ -26,7 +26,7 @@ By the end of the workshop, participants would learn  <br />
 </details><br><br>
 
 <br><details>
-<summary><strong>Introduction to Web Development 🌐 (9 May & 17 May)</strong></summary><br>
+<summary><strong>Introduction to Web Development 🌐 (Completed)</strong></summary><br>
 <img src="https://yogendra.me/2017/07/20/migration-mania/html-js-css.png" style="width:130px;">
 <br><strong>Learning to build a efficient web application quickly is increasingly important. This workshop (and more) will equip you with the skills and tools to build your own web application. Here are some of the tools you will learn!</strong><br><br>
   
@@ -72,7 +72,7 @@ NoSQL databases come in a variety of types based on their data model. The main t
 </details><br><br>
 
 <br><details>
-<summary><strong>Introduction to Cybersecurity 💻 (16 May)</strong></summary><br>
+<summary><strong>Introduction to Cybersecurity 💻 (Completed)</strong></summary><br>
 
 <strong>Timing: 1000-1200</strong><br><br>
 
@@ -84,7 +84,7 @@ In this course, we will be embarking on a Capture-the-Flag style competition whe
 </details><br><br>
 
 <br><details>
-<summary><strong>Introduction to Open Computer Vision with Python 📷 (17 May & 23 May)</strong></summary><br>
+<summary><strong>Introduction to Open Computer Vision with Python 📷 (Completed)</strong></summary><br>
 <img src="https://user-images.githubusercontent.com/47784720/80275797-349dab80-8716-11ea-8b11-ce656342ae73.png" alt="EdgeDunmanHigh" style="max-width:90%;"/>
 <br><strong>Part 1 (Timing: 1000-1200)</strong><br>
 Open CV is a powerful library used to analyse images and videos! Equip 

@@ -23,7 +23,7 @@ The most creative Computing entries will win Grab food vouchers (you can use it 
 
 Congrats to <strong>Ms Ong Hui Qi Emily</strong> of Dunman High School for being the winner of BuildingBloCS 2020 mini-competition series - Hari Raya Puasa Edition!<br><br>
 
-The sketch was made using https://github.com/EmilyOng/Sketch, which was done by Ms Ong. During the festival, due to the circuit breaker measures, it is hard for people to get together and celebrate. Sending text messages, emails or phone calls are appropriate ways to socialise, but may not be as heartfelt as everything is transmitted digitally using text. One way is for people to be able to send drawings to one another, making digital hand-drawn postcards, which can be done using the website above.<br><br>
+The sketch was made using <a href="https://github.com/EmilyOng/Sketch">https://github.com/EmilyOng/Sketch</a>, which was done by Ms Ong. During the festival, due to the circuit breaker measures, it is hard for people to get together and celebrate. Sending text messages, emails or phone calls are appropriate ways to socialise, but may not be as heartfelt as everything is transmitted digitally using text. One way is for people to be able to send drawings to one another, making digital hand-drawn postcards, which can be done using the website above.<br><br>
 
 Ms Ong has won for herself a Grabfood voucher.<br><br>
 

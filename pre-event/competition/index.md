@@ -27,7 +27,7 @@ The sketch was made using https://github.com/EmilyOng/Sketch, which was done by 
 
 Ms Ong has won for herself a Grabfood voucher.
 
-!(https://cdn.discordapp.com/attachments/698833961400533074/714798980780785704/bbcs.jpg)
+![](https://cdn.discordapp.com/attachments/698833961400533074/714798980780785704/bbcs.jpg)
 
 </details>
 

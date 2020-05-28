@@ -19,15 +19,15 @@ The most creative Computing entries will win Grab food vouchers (you can use it 
 
 <div>
 <details>
-<summary><strong>Hari Raya Puasa Edition (Ongoing)</strong></summary><br>
+<summary><strong>Hari Raya Puasa Edition (Completed)</strong></summary><br>
 
-We are excited (again) to announce BuildingBloCS 2020 competition series Hari Raya Puasa edition! Hari Raya Puasa this year falls on Sun 24 May 2020 and thus Mon 25 May 2020 is a public holiday in lieu!<br><br>
+Congrats to <strong>Ms Ong Hui Qi Emily</strong> of Dunman High School for being the winner of BuildingBloCS 2020 mini-competition series - Hari Raya Puasa Edition!
 
-Anytime from now until <strong>2359 Mon 25 May</strong>, submit your entries <strong><a href="https://tinyurl.com/bbcs20compharirayapuasasubmit">here.</a></strong><br>
+The sketch was made using https://github.com/EmilyOng/Sketch, which was done by Ms Ong. During the festival, due to the circuit breaker measures, it is hard for people to get together and celebrate. Sending text messages, emails or phone calls are appropriate ways to socialise, but may not be as heartfelt as everything is transmitted digitally using text. One way is for people to be able to send drawings to one another, making digital hand-drawn postcards, which can be done using the website above.
 
-<em>(Remember to allow public view access if you are sharing a Google Drive link.)</em><br>
+Ms Ong has won for herself a Grabfood voucher.
 
-<a class="btn" href="https://tinyurl.com/bbcs20compharirayapuasa">Details</a>
+!(https://cdn.discordapp.com/attachments/698833961400533074/714798980780785704/bbcs.jpg)
 
 </details>
 

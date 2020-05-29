@@ -88,7 +88,21 @@
     winner: Suan Pin from DHS
   - prize: 5th Prize - Xiaomi 10000mAh Wireless Power Bank Youth Edition
     winner: Xu Tongli from CWSS
+    
 - week: 8
+  awards:
+  - prize: 1st Prize - BuildingBloCS t-shirt
+    winner: Javier Lim from NUSH
+  - prize: 2nd Prize - BuildingBloCS t-shirt
+    winner: Lam Jun Rong from NUSH
+  - prize: 3rd Prize - BuildingBloCS t-shirt
+    winner: Ma Weiyi from DHS
+  - prize: 4th Prize - BuildingBloCS t-shirt
+    winner: Cao Yueran from NUSH
+  - prize: 5th Prize - BuildingBloCS t-shirt
+    winner: Cato Lim from ACSBR
+  
+  - week: 9
   awards:
   - prize:
     winner:

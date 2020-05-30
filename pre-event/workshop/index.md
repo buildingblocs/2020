@@ -106,7 +106,7 @@ Detection. Participants will also get to embark on a future project!
 
 <br><details>
 <summary><strong>Introduction to Git 🌲 (Completed)</strong></summary><br>
-  
+  <a class="btn" href="https://youtu.be/NoEky790IaI">View Video</a>
 <strong>Timing: 1500-1630</strong><br><br>
   
 Open source development is increasingly prevalent in software development, powering many devices that we use daily. Originally developed for the managing the Linux Operating System, Git is an extremely powerful tool for managing computing projects.<br><br>
@@ -120,7 +120,7 @@ Participants will learn what Git is and how it is different from GitHub, what pr
 
 <br><details>
 <summary><strong>Introduction to Unity 🎮(Completed)</strong></summary><br>
-  
+  <a class="btn" href="https://youtu.be/DQSdK0O2aOs">View Video</a>
 <strong>Timing: 1000-1200</strong><br><br>
 
 Participants will be introduced to the the Game Loop, 2D Space, Collision detection, and make a simple game involving moving the player character.

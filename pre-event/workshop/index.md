@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# 2020 Workshop Series ([**sign up here!**](https://forms.gle/wdzqCbVki58rj7da9)😄) 
+# 2020 Workshop Series
 
 Enter the realm of cyber-defenders by taking on a hands-on approach to cybersecurity, or learn how to use SQLite/NoSQL/HTML/CSS/Flask to enrich your web/mobile applications! If you are looking to refresh your programming knowledge/thinking, do drop by the Intro to Python Workshop! Aspiring game developers, you’ll be glad to know that Intro to Unity Workshop awaits you while those eager to enhance your project workflow should partake in the Intro to Git session. Do look at the various workshops below!
 

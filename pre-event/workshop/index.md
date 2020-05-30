@@ -105,7 +105,7 @@ Detection. Participants will also get to embark on a future project!
 </details><br><br>
 
 <br><details>
-<summary><strong>Introduction to Git 🌲 (29 May)</strong></summary><br>
+<summary><strong>Introduction to Git 🌲 (Completed)</strong></summary><br>
   
 <strong>Timing: 1500-1630</strong><br><br>
   
@@ -119,7 +119,7 @@ Participants will learn what Git is and how it is different from GitHub, what pr
 </details><br><br>
 
 <br><details>
-<summary><strong>Introduction to Unity 🎮(30 May)</strong></summary><br>
+<summary><strong>Introduction to Unity 🎮(Completed)</strong></summary><br>
   
 <strong>Timing: 1000-1200</strong><br><br>
 

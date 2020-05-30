@@ -14,6 +14,8 @@ This year, BuildingBloCS is going ONLINE! We would like to invite all Computing 
 
 Enter the realm of cyber-defenders by taking on a hands-on approach to cybersecurity, or learn how to use SQLite/NoSQL/HTML/CSS/Flask to enrich your web/mobile applications! If you are looking to refresh your programming knowledge/thinking, do drop by the Intro to Python Workshop!
 
+We have made a simple game using Unity in our Unity Workshop! Try it out [here!](https://buildingblocs.github.io/2020/pre-event/unitygame/)
+
 **All workshops are finished, but you can still view the replay on our [Youtube Channel!!](https://www.youtube.com/channel/UCWQmrxGbwU4jFBCJf7rPoFQ "BuildingBlocs Youtube")!**
 
 <a class="btn" href="{{ site.baseurl }}/pre-event/workshop">Details</a>

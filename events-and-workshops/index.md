@@ -21,14 +21,14 @@ We would be posting regular updates through the server and it would be the easie
 **Thu 14 May**  
 0900 - 0910 Day 1 Opening and entertainment  
 0910 - 0930 Talk by Whizz Mobility  
-0930 - 1000 Icebreaking @ Skribbl.io  
-0950 - 1000 Break Loop  
+0930 - 0955 Icebreaking  
+0955 - 1000 Break Loop  
 1000 - 1110 Battle it out @ CodeCombat<sup>[1]</sup>  
 1110 - 1140 Baking with Matplotlib  
 1140 - 1150 Day 1 Closing  
-1150 - 1200 Lucky draw and entertainment and photo-taking  
+1150 - 1200 Lucky draw and mass dance and photo-taking  
 1200 - 1300 Lunch  
-1300 - TBC  Lightning Labs X Daily Applications of Computing  
+1300 - 1400  Lightning Labs X Daily Applications of Computing  
 
 **Fri 15 May**  
 0900 - 0910 Day 2 Opening and entertainment  
@@ -37,7 +37,7 @@ We would be posting regular updates through the server and it would be the easie
 1100 - 1110 Break Loop  
 1110 - 1140 Lightning Labs X Unique Applications of Computing  
 1140 - 1150 Day 2 Closing  
-1150 - 1200 Lucky draw and entertainment and photo-taking  
+1150 - 1200 Lucky draw and mass dance and photo-taking  
 
 
 <div>
@@ -55,7 +55,7 @@ Participate in an Amazing Race style online competition with multiple stages and
 </div>
 <br>
 
-> **Sign up [here]({{ site.baseurl }}/register).**
+> **Sign up is now closed. See you online!**
 
 <br>
 **Apart from the conference, there are also other online activities to sign up:**   

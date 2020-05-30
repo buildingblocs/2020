@@ -65,18 +65,57 @@
     
 - week: 6
   awards:
-  - prize:
-    winner:
-  - prize:
-    winner:
-  - prize:
-    winner:
-  - prize:
-    winner:
-  - prize:
-    winner:
+  - prize: 1st Prize - FOSSASIA t-shirt 👕
+    winner: Yap Jun Hong from NJC
+  - prize: 2nd Prize - FOSSASIA t-shirt 👕
+    winner: Ace Chow from DHS
+  - prize: 3rd Prize - FOSSASIA t-shirt 👕
+    winner: Kia Jia Han from NJC
+  - prize: 4th Prize - FOSSASIA t-shirt 👕
+    winner: Zhang Jun lu from NJC
+  - prize: 5th Prize - FOSSASIA t-shirt 👕
+    winner: Grace Song from NJC
    
 - week: 7
+  awards:
+  - prize: 1st Prize - Amazon Echo Spot
+    winner: Reza Aulia from ACSBR
+  - prize: 2nd Prize - Mi TV Box
+    winner: Sebastian Yeo from ZHSS
+  - prize: 3rd Prize - Xiaomi Wireless Blender
+    winner: Chen Leyi from YIJC
+  - prize: 4th Prize - Xiaomi 10000mAh Wireless Power Bank Youth Edition
+    winner: Suan Pin from DHS
+  - prize: 5th Prize - Xiaomi 10000mAh Wireless Power Bank Youth Edition
+    winner: Xu Tongli from CWSS
+    
+- week: 8
+  awards:
+  - prize: 1st Prize - Huawei MediaPad T5
+    winner: Grace Song from NJC
+  - prize: 2nd Prize - Google Home
+    winner: Timothy Seah from ACJC
+  - prize: 3rd Prize - Amazon Cloud Cam
+    winner: Alexander Liswandy from DHS
+  - prize: 4th Prize - Xiaomi 10000mAh Wireless Power Bank Youth Edition
+    winner: Ng Kin Meng from ACJC
+  - prize: 5th Prize - Xiaomi 10000mAh Wireless Power Bank Youth Edition
+    winner: Wong Yoke Han from YIJC
+  
+  - week: 9
+  awards:
+  - prize: 1st Prize - BuildingBloCS t-shirt 👕
+    winner: Javier Lim from NUSH
+  - prize: 2nd Prize - BuildingBloCS t-shirt 👕
+    winner: Lam Jun Rong from NUSH
+  - prize: 3rd Prize - BuildingBloCS t-shirt 👕
+    winner: Ma Weiyi from DHS
+  - prize: 4th Prize - BuildingBloCS t-shirt 👕
+    winner: Cao Yueran from NUSH
+  - prize: 5th Prize - BuildingBloCS t-shirt 👕
+    winner: Cato Lim from ACSBR
+
+  - week: 10
   awards:
   - prize:
     winner:
@@ -88,4 +127,3 @@
     winner:
   - prize:
     winner:
-   

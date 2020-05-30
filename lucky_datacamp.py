@@ -109,7 +109,7 @@ def display(winner_list, prizes, participants, num_participants):
                 f'In the {count}th place, we have {element[0]} from {element[2]} winning {prizes[count-1]}')
         while True:
             x = input("Redraw? [Y/N] [YES/NO] [DEFAULT:N]: ")
-            if x.upper() == "Y" or x.upper == "YES":
+            if x.upper() == "Y" or x.upper() == "YES":
                 element = redraw(participants, num_participants)
                 if count == 1:
                     print(

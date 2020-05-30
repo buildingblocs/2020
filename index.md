@@ -32,7 +32,8 @@ Already on its 4th year, BuildingBloCS '20 will be the year of breakthroughs! Th
 
 ## Pre-events
 
-**Workshop materials, programming puzzles, pop quizzes, fun facts** will be here. The pre-events will boost your Computing prowess and help you to contribute to the progress of Singapore as a Smart Nation one step at a time, they are definitely not to be missed! [More&nbsp;details&nbsp;&raquo;]({{ site.baseurl }}/pre-event)
+**Workshop materials, programming puzzles, pop quizzes, fun facts** will be here. The pre-events will boost your Computing prowess and help you to contribute to the progress of Singapore as a Smart Nation one step at a time, they are definitely not to be missed!<br><br>
+[More&nbsp;details&nbsp;&raquo;]({{ site.baseurl }}/pre-event)
 
 ## Event
 [Registration is open! >>]({{ site.baseurl }}/register)

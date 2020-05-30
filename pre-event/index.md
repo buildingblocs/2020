@@ -16,7 +16,7 @@ Enter the realm of cyber-defenders by taking on a hands-on approach to cybersecu
 
 **Upcoming workshops:**
 
-<!DOCTYPE html>
+
 <html lang="en-us">
   <head>
     <meta charset="utf-8">

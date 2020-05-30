@@ -18,18 +18,6 @@ Enter the realm of cyber-defenders by taking on a hands-on approach to cybersecu
 
 <a class="btn" href="{{ site.baseurl }}/pre-event/workshop">Details</a>
 
-## Lightning Labs
-
-2020 is an exciting year and BuildingBloCS 2020 is trying out a new format of learning. This year, we have a new segment call Lightning Labs (previously called Lightning Workshops), it is a segment where YOU (and your friends) can:
-1. Showcase your projects (computing related ofc :slight_smile:  but doesnt need to be finished products, products in development or prototypes would work too)
-2. Conduct a workshop (it can be about anything related to tech!!! eg: competitive programming, socket programming, image manipulation, video effects, etc!!)
-3. Views/opinions on the computing community in the form of interactive debates on issues such as: "is javascript too flexible such that it becomes too hard to learn?" 
-4. Come up with your own computing/tech related short lab!!! 
-
-**NOTE: MAX PER TEAM: 3 PERSON**
-
-<a class="btn" href="https://tinyurl.com/bbcs20lightninglabs">Sign Up</a>
-
 ## BuildingBloCS Competition Series
 
 We are excited to launch a special BuildingBloCS 2020 competition series to promote awareness and appreciation of how Computing is connected to our daily lives and the world around us, starting with the appreciation of culture. It will be a secular competition with the objective of connecting festivities to Computing.
@@ -82,3 +70,15 @@ Data science and artificial intelligence have become hot topics ubiquitous in al
 Held on the 15th April 2020, participants had the opportunity to learn about these topics through DataCamp.
 
 [DataCamp](https://www.datacamp.com/) is a platform that allows you to learn about data science, machine learning, etc. It comes in courses conducted by industry experts with bite-size exercises accompanied by clear instructional videos. Users can learn data analytics and machine learning from the comfort of their browser, at their own pace, and tailored to their needs and expertise, and even earn industry certification!
+
+<br>
+
+## Lightning Labs
+
+2020 is an exciting year and BuildingBloCS 2020 is trying out a new format of learning. This year, we have a new segment call Lightning Labs (previously called Lightning Workshops), it is a segment where YOU (and your friends) can:
+1. Showcase your projects (computing related ofc, but doesnt need to be finished products, products in development or prototypes would work too)
+2. Conduct a workshop (it can be about anything related to tech!!! eg: competitive programming, socket programming, image manipulation, video effects, etc!!)
+3. Views/opinions on the computing community in the form of interactive debates on issues such as: "is javascript too flexible such that it becomes too hard to learn?" 
+4. Come up with your own computing/tech related short lab!!! 
+
+**NOTE: MAX PER TEAM: 3 PERSON**

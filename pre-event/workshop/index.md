@@ -100,7 +100,7 @@ certain colors of an image. We will also explore the math behind Canny Edge
 Detection. Participants will also get to embark on a future project!
 
 <br><br><strong>Prerequisites:</strong> Basic Knowledge of Python (Intro to Python Workshop)<br>
-<a class="btn" href="https://youtu.be/KCQNqL-T20c">View Video of Part 1</a>
+<a class="btn" href="https://youtu.be/KCQNqL-T20c">View Video of Part 1</a><br>
 <a class="btn" href="https://youtu.be/1McxruHQGQo">View Video of Part 2</a>
 </details><br><br>
 

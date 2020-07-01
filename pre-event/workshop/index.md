@@ -99,34 +99,32 @@ In Part 2, We will be learning how to make use of the slider trackbars to isolat
 certain colors of an image. We will also explore the math behind Canny Edge 
 Detection. Participants will also get to embark on a future project!
 
-<br><br><strong>Prerequisites:</strong> Basic Knowledge of Python (Intro to Python Workshop)
+<br><br><strong>Prerequisites:</strong> Basic Knowledge of Python (Intro to Python Workshop)<br>
 <a class="btn" href="https://youtu.be/KCQNqL-T20c">View Video of Part 1</a>
 <a class="btn" href="https://youtu.be/1McxruHQGQo">View Video of Part 2</a>
 </details><br><br>
 
 <br><details>
 <summary><strong>Introduction to Git 🌲 (Completed)</strong></summary><br>
-  <a class="btn" href="https://youtu.be/NoEky790IaI">View Video</a>
 <strong>Timing: 1500-1630</strong><br><br>
   
 Open source development is increasingly prevalent in software development, powering many devices that we use daily. Originally developed for the managing the Linux Operating System, Git is an extremely powerful tool for managing computing projects.<br><br>
 Participants will learn what Git is and how it is different from GitHub, what programmers can use Git for, learn to perform basic operations (commit, pull etc) using a Git GUI Client, perform simple collaborative operations (merge, forking) and understand the use of pull requests in working on public open source projects
   
-<br><br><strong>Prerequisites:</strong> A little knowledge of terminal/Command Prompt commands would be helpful but not essential
-<!---
-<a class="btn" href="">View Video</a>
--->
+<br><br><strong>Prerequisites:</strong> A little knowledge of terminal/Command Prompt commands would be helpful but not essential<br>
+<a class="btn" href="https://youtu.be/NoEky790IaI">View Video</a>
 </details><br><br>
 
 <br><details>
 <summary><strong>Introduction to Unity 🎮(Completed)</strong></summary><br>
-  <a class="btn" href="https://youtu.be/DQSdK0O2aOs">View Video</a>
+
 <strong>Timing: 1000-1200</strong><br><br>
 
 Participants will be introduced to the the Game Loop, 2D Space, Collision detection, and make a simple game involving moving the player character.
   
 <br><br><strong>Prerequisites:</strong> Knowledge of C# programming would be useful, but not required.
-As for programming knowledge, its mainly going to be variables:
+As for programming knowledge, its mainly going to be variables:<br>
+<a class="btn" href="https://youtu.be/DQSdK0O2aOs">View Video</a>
 <pre class="line-numbers">
   <code class="language-aspnet">
 Vector3 direction = new Vector3(1,1,1);
@@ -141,9 +139,6 @@ if (Input.GetButtonDown('Jump')){
   </code>
 </pre>
 
-<!---
-<a class="btn" href="">View Video</a>
--->
 </details><br>
 </div><br><br>
 

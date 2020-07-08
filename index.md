@@ -13,7 +13,7 @@ published: true
             {{ site.date }} {{ site.location }} :)
         </p>    
 	<p>
-	    <h3>The BuildingBloCS 2020 Conference is over! BuildingBloCS 2020, however is still ongoing!</h3>
+	    <h3>BuildingBloCS 2020 is over! See you next year!</h3>
 	</p>
 	
 
